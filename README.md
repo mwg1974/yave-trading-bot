@@ -1,21 +1,28 @@
-# YAVE Trading Bot v3.0 — Professional Audited Edition
+# 🚀 YAVE Trading Bot v4.2
 
-## 🎯 Wat is dit?
-Een professionele backtest engine voor XAUUSD (goud) met:
-- EMA 9/21 crossover strategie
-- EMA 200 trend filter
-- Fair Value Gap (FVG) confirmatie
-- Realistische kosten, SL/TP, trailing stop
-- Walk-forward validation tegen overfitting
-- Forward test logging voor demo vergelijking
+**Inverse Price Action Trading Strategy - EURUSD M15**
 
-## 🚀 Snel Starten
+## 📊 Performance (Backtest)
 
-### 1. Installatie
+| Metric | Value |
+|--------|-------|
+| **Win Rate** | 61.0% |
+| **Total Return** | 19.49% (4-5 maanden) |
+| **Total PnL** | +$1,949.50 |
+| **Total Trades** | 244 |
+
+## 🎯 Strategie
+
+**Inverse Breakout (Fade Trading)**
+- SHORT wanneer prijs BOVEN resistance breekt
+- LONG wanneer prijs ONDER support breekt
+- Stop Loss: 40 pips
+- Take Profit: 90 pips (1:2.25 RR)
+- Trailing Stop: Activeert bij 45 pips winst
+- Max Duration: 28 candles (~7 uur)
+
+## 🛠 Installatie
+
 ```bash
-# Maak virtual environment (aanbevolen)
-python -m venv yave_env
-source yave_env/bin/activate  # Windows: yave_env\Scripts\activate
-
-# Installeer dependencies
 pip install -r requirements.txt
+python inverse_optimized_v42.py

@@ -1,4 +1,7 @@
-MetaTrader5>=5.0.45
-pandas>=1.5.0
-numpy>=1.21.0
-matplotlib>=3.5.0
+# YAVE Trading Bot - Dependencies
+backtrader==1.9.78.123
+MetaTrader5==5.0.45
+pandas==2.1.0
+numpy==1.26.0
+matplotlib==3.8.0
+python-dateutil==2.8.2
