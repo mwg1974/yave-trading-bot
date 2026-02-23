@@ -1,0 +1,6104 @@
+[
+  {
+    "entry_time": "2024-09-30T22:15:00",
+    "exit_time": "2024-09-30T23:00:00",
+    "entry_price": 1.1126800000000001,
+    "exit_price": null,
+    "lot_size": 4.0,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-01T03:30:00",
+    "exit_time": "2024-10-01T04:00:00",
+    "entry_price": 1.11293,
+    "exit_price": 1.11343,
+    "lot_size": 3.96,
+    "pnl": -0.1979999999999782,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-01T04:15:00",
+    "exit_time": "2024-10-01T04:45:00",
+    "entry_price": 1.11374,
+    "exit_price": null,
+    "lot_size": 3.93,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-01T09:00:00",
+    "exit_time": "2024-10-01T09:15:00",
+    "entry_price": 1.11319,
+    "exit_price": 1.1136899999999998,
+    "lot_size": 3.9,
+    "pnl": -0.19499999999997852,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-01T21:45:00",
+    "exit_time": "2024-10-01T22:45:00",
+    "entry_price": 1.10716,
+    "exit_price": 1.10666,
+    "lot_size": 3.86,
+    "pnl": -0.19299999999997874,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-01T23:45:00",
+    "exit_time": "2024-10-02T04:30:00",
+    "entry_price": 1.10678,
+    "exit_price": 1.10728,
+    "lot_size": 3.83,
+    "pnl": -0.1914999999999789,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-02T05:30:00",
+    "exit_time": "2024-10-02T06:00:00",
+    "entry_price": 1.10639,
+    "exit_price": 1.10689,
+    "lot_size": 3.79,
+    "pnl": -0.18949999999997913,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-02T06:15:00",
+    "exit_time": "2024-10-02T07:30:00",
+    "entry_price": 1.10707,
+    "exit_price": 1.10657,
+    "lot_size": 3.76,
+    "pnl": -0.1879999999999793,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-02T07:45:00",
+    "exit_time": "2024-10-02T08:15:00",
+    "entry_price": 1.10631,
+    "exit_price": null,
+    "lot_size": 3.73,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-02T10:00:00",
+    "exit_time": "2024-10-02T11:15:00",
+    "entry_price": 1.10678,
+    "exit_price": 1.10778,
+    "lot_size": 3.69,
+    "pnl": 0.36899999999995936,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-10-02T15:15:00",
+    "exit_time": "2024-10-02T15:30:00",
+    "entry_price": 1.1060699999999999,
+    "exit_price": null,
+    "lot_size": 3.66,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-02T23:00:00",
+    "exit_time": "2024-10-02T23:45:00",
+    "entry_price": 1.10503,
+    "exit_price": 1.10453,
+    "lot_size": 3.63,
+    "pnl": -0.18149999999998,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-03T02:00:00",
+    "exit_time": "2024-10-03T03:15:00",
+    "entry_price": 1.10452,
+    "exit_price": null,
+    "lot_size": 3.6,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-03T10:00:00",
+    "exit_time": "2024-10-03T10:30:00",
+    "entry_price": 1.10362,
+    "exit_price": 1.10312,
+    "lot_size": 3.57,
+    "pnl": -0.1784999999999803,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-03T10:30:00",
+    "exit_time": "2024-10-03T11:00:00",
+    "entry_price": 1.10302,
+    "exit_price": 1.1035199999999998,
+    "lot_size": 3.53,
+    "pnl": -0.17649999999998056,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-03T11:00:00",
+    "exit_time": "2024-10-03T14:30:00",
+    "entry_price": 1.10382,
+    "exit_price": null,
+    "lot_size": 3.5,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-03T15:30:00",
+    "exit_time": "2024-10-03T15:45:00",
+    "entry_price": 1.1032,
+    "exit_price": 1.1037,
+    "lot_size": 3.47,
+    "pnl": -0.1734999999999809,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-03T20:00:00",
+    "exit_time": "2024-10-03T21:00:00",
+    "entry_price": 1.10349,
+    "exit_price": 1.1029900000000001,
+    "lot_size": 3.44,
+    "pnl": -0.17199999999998106,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-03T22:00:00",
+    "exit_time": "2024-10-03T22:15:00",
+    "entry_price": 1.10264,
+    "exit_price": 1.10314,
+    "lot_size": 3.41,
+    "pnl": -0.17049999999998122,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-03T22:15:00",
+    "exit_time": "2024-10-03T23:00:00",
+    "entry_price": 1.1031,
+    "exit_price": 1.1026,
+    "lot_size": 3.38,
+    "pnl": -0.1689999999999814,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-03T23:45:00",
+    "exit_time": "2024-10-04T03:00:00",
+    "entry_price": 1.10297,
+    "exit_price": null,
+    "lot_size": 3.35,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-04T04:45:00",
+    "exit_time": "2024-10-04T08:45:00",
+    "entry_price": 1.10299,
+    "exit_price": 1.1034899999999999,
+    "lot_size": 3.32,
+    "pnl": -0.1659999999999817,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-04T10:45:00",
+    "exit_time": "2024-10-04T12:00:00",
+    "entry_price": 1.10279,
+    "exit_price": null,
+    "lot_size": 3.29,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-04T13:30:00",
+    "exit_time": "2024-10-04T15:15:00",
+    "entry_price": 1.10315,
+    "exit_price": 1.1026500000000001,
+    "lot_size": 3.26,
+    "pnl": -0.16299999999998205,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-04T15:30:00",
+    "exit_time": "2024-10-04T15:45:00",
+    "entry_price": 1.09681,
+    "exit_price": null,
+    "lot_size": 3.23,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-04T22:15:00",
+    "exit_time": "2024-10-07T00:00:00",
+    "entry_price": 1.09738,
+    "exit_price": 1.09688,
+    "lot_size": 3.21,
+    "pnl": -0.16049999999998232,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-07T00:00:00",
+    "exit_time": "2024-10-07T01:15:00",
+    "entry_price": 1.09666,
+    "exit_price": 1.09716,
+    "lot_size": 3.18,
+    "pnl": -0.15899999999998252,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-07T03:00:00",
+    "exit_time": "2024-10-07T08:00:00",
+    "entry_price": 1.09722,
+    "exit_price": 1.0967200000000001,
+    "lot_size": 3.15,
+    "pnl": -0.15749999999998265,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-07T11:00:00",
+    "exit_time": "2024-10-07T12:00:00",
+    "entry_price": 1.09729,
+    "exit_price": 1.0967900000000002,
+    "lot_size": 3.12,
+    "pnl": -0.15599999999998282,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-07T12:00:00",
+    "exit_time": "2024-10-07T13:15:00",
+    "entry_price": 1.09632,
+    "exit_price": 1.09682,
+    "lot_size": 3.09,
+    "pnl": -0.15449999999998298,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-07T14:15:00",
+    "exit_time": "2024-10-07T14:30:00",
+    "entry_price": 1.09721,
+    "exit_price": null,
+    "lot_size": 3.07,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-07T21:15:00",
+    "exit_time": "2024-10-07T21:45:00",
+    "entry_price": 1.09743,
+    "exit_price": null,
+    "lot_size": 3.04,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-08T01:00:00",
+    "exit_time": "2024-10-08T04:00:00",
+    "entry_price": 1.09771,
+    "exit_price": null,
+    "lot_size": 3.01,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-08T10:15:00",
+    "exit_time": "2024-10-08T10:30:00",
+    "entry_price": 1.09806,
+    "exit_price": 1.09856,
+    "lot_size": 2.99,
+    "pnl": -0.14949999999998353,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-08T10:30:00",
+    "exit_time": "2024-10-08T11:15:00",
+    "entry_price": 1.09928,
+    "exit_price": 1.09878,
+    "lot_size": 2.96,
+    "pnl": -0.1479999999999837,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-08T13:30:00",
+    "exit_time": "2024-10-08T14:45:00",
+    "entry_price": 1.0983,
+    "exit_price": 1.0988,
+    "lot_size": 2.93,
+    "pnl": -0.1464999999999839,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-08T22:45:00",
+    "exit_time": "2024-10-09T00:00:00",
+    "entry_price": 1.09778,
+    "exit_price": 1.09728,
+    "lot_size": 2.91,
+    "pnl": -0.14549999999998398,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-09T02:45:00",
+    "exit_time": "2024-10-09T05:45:00",
+    "entry_price": 1.09754,
+    "exit_price": null,
+    "lot_size": 2.88,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-09T08:45:00",
+    "exit_time": "2024-10-09T09:00:00",
+    "entry_price": 1.09731,
+    "exit_price": 1.09681,
+    "lot_size": 2.86,
+    "pnl": -0.14299999999998425,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-09T09:00:00",
+    "exit_time": "2024-10-09T10:00:00",
+    "entry_price": 1.09668,
+    "exit_price": 1.0956800000000002,
+    "lot_size": 2.83,
+    "pnl": 0.28299999999996883,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-10-09T13:00:00",
+    "exit_time": "2024-10-09T13:30:00",
+    "entry_price": 1.09686,
+    "exit_price": 1.09636,
+    "lot_size": 2.81,
+    "pnl": -0.14049999999998453,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-09T14:30:00",
+    "exit_time": "2024-10-09T16:15:00",
+    "entry_price": 1.09586,
+    "exit_price": 1.0948600000000002,
+    "lot_size": 2.78,
+    "pnl": 0.2779999999999694,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-10-10T02:30:00",
+    "exit_time": "2024-10-10T09:00:00",
+    "entry_price": 1.09417,
+    "exit_price": 1.0936700000000001,
+    "lot_size": 2.76,
+    "pnl": -0.1379999999999848,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-10T13:45:00",
+    "exit_time": "2024-10-10T14:15:00",
+    "entry_price": 1.09391,
+    "exit_price": 1.09341,
+    "lot_size": 2.73,
+    "pnl": -0.13649999999998497,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-10T14:15:00",
+    "exit_time": "2024-10-10T14:30:00",
+    "entry_price": 1.09344,
+    "exit_price": null,
+    "lot_size": 2.71,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-10T15:45:00",
+    "exit_time": "2024-10-10T16:30:00",
+    "entry_price": 1.0944099999999999,
+    "exit_price": 1.09391,
+    "lot_size": 2.69,
+    "pnl": -0.1344999999999852,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-10T17:15:00",
+    "exit_time": "2024-10-10T17:30:00",
+    "entry_price": 1.09225,
+    "exit_price": null,
+    "lot_size": 2.66,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-10T22:15:00",
+    "exit_time": "2024-10-10T22:45:00",
+    "entry_price": 1.09268,
+    "exit_price": null,
+    "lot_size": 2.64,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-11T04:45:00",
+    "exit_time": "2024-10-11T05:45:00",
+    "entry_price": 1.0932,
+    "exit_price": 1.0937,
+    "lot_size": 2.62,
+    "pnl": -0.13099999999998557,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-11T08:45:00",
+    "exit_time": "2024-10-11T09:45:00",
+    "entry_price": 1.09355,
+    "exit_price": 1.09405,
+    "lot_size": 2.59,
+    "pnl": -0.12949999999998574,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-11T09:45:00",
+    "exit_time": "2024-10-11T10:15:00",
+    "entry_price": 1.09402,
+    "exit_price": 1.09352,
+    "lot_size": 2.57,
+    "pnl": -0.12849999999998582,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-11T13:15:00",
+    "exit_time": "2024-10-11T14:15:00",
+    "entry_price": 1.09352,
+    "exit_price": null,
+    "lot_size": 2.55,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-11T17:00:00",
+    "exit_time": "2024-10-11T17:30:00",
+    "entry_price": 1.09408,
+    "exit_price": null,
+    "lot_size": 2.52,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-11T21:45:00",
+    "exit_time": "2024-10-11T22:45:00",
+    "entry_price": 1.09391,
+    "exit_price": null,
+    "lot_size": 2.5,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-14T06:15:00",
+    "exit_time": "2024-10-14T07:00:00",
+    "entry_price": 1.09293,
+    "exit_price": 1.09243,
+    "lot_size": 2.48,
+    "pnl": -0.12399999999998634,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-14T07:15:00",
+    "exit_time": "2024-10-14T09:00:00",
+    "entry_price": 1.0924,
+    "exit_price": 1.0929,
+    "lot_size": 2.46,
+    "pnl": -0.12299999999998644,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-14T09:00:00",
+    "exit_time": "2024-10-14T10:00:00",
+    "entry_price": 1.09289,
+    "exit_price": 1.09239,
+    "lot_size": 2.44,
+    "pnl": -0.12199999999998655,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-14T13:30:00",
+    "exit_time": "2024-10-14T14:00:00",
+    "entry_price": 1.09253,
+    "exit_price": null,
+    "lot_size": 2.42,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-14T23:15:00",
+    "exit_time": "2024-10-15T00:00:00",
+    "entry_price": 1.09071,
+    "exit_price": 1.0902100000000001,
+    "lot_size": 2.39,
+    "pnl": -0.11949999999998685,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-15T03:15:00",
+    "exit_time": "2024-10-15T06:45:00",
+    "entry_price": 1.0906,
+    "exit_price": 1.0896000000000001,
+    "lot_size": 2.37,
+    "pnl": 0.2369999999999739,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-10-15T11:00:00",
+    "exit_time": "2024-10-15T11:45:00",
+    "entry_price": 1.0906,
+    "exit_price": 1.0916,
+    "lot_size": 2.35,
+    "pnl": 0.23499999999997412,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-10-15T14:15:00",
+    "exit_time": "2024-10-15T14:30:00",
+    "entry_price": 1.08993,
+    "exit_price": 1.09043,
+    "lot_size": 2.33,
+    "pnl": -0.11649999999998717,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-15T14:30:00",
+    "exit_time": "2024-10-15T14:45:00",
+    "entry_price": 1.0907,
+    "exit_price": 1.0902,
+    "lot_size": 2.31,
+    "pnl": -0.1154999999999873,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-15T14:45:00",
+    "exit_time": "2024-10-15T15:15:00",
+    "entry_price": 1.0901,
+    "exit_price": 1.0906,
+    "lot_size": 2.29,
+    "pnl": -0.1144999999999874,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-15T17:30:00",
+    "exit_time": "2024-10-15T17:45:00",
+    "entry_price": 1.09009,
+    "exit_price": 1.09059,
+    "lot_size": 2.27,
+    "pnl": -0.1134999999999875,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-16T00:30:00",
+    "exit_time": "2024-10-16T02:00:00",
+    "entry_price": 1.08922,
+    "exit_price": 1.0887200000000001,
+    "lot_size": 2.25,
+    "pnl": -0.11249999999998761,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-16T04:45:00",
+    "exit_time": "2024-10-16T08:45:00",
+    "entry_price": 1.08918,
+    "exit_price": 1.08868,
+    "lot_size": 2.23,
+    "pnl": -0.11149999999998772,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-16T12:00:00",
+    "exit_time": "2024-10-16T15:00:00",
+    "entry_price": 1.08912,
+    "exit_price": null,
+    "lot_size": 2.21,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-16T17:00:00",
+    "exit_time": "2024-10-16T17:15:00",
+    "entry_price": 1.08837,
+    "exit_price": 1.0873700000000002,
+    "lot_size": 2.19,
+    "pnl": 0.21899999999997585,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-10-17T03:45:00",
+    "exit_time": "2024-10-17T06:00:00",
+    "entry_price": 1.08632,
+    "exit_price": 1.08582,
+    "lot_size": 2.17,
+    "pnl": -0.10849999999998805,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-17T06:00:00",
+    "exit_time": "2024-10-17T07:00:00",
+    "entry_price": 1.08578,
+    "exit_price": null,
+    "lot_size": 2.15,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-17T12:30:00",
+    "exit_time": "2024-10-17T14:00:00",
+    "entry_price": 1.08617,
+    "exit_price": null,
+    "lot_size": 2.13,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-17T15:30:00",
+    "exit_time": "2024-10-17T15:45:00",
+    "entry_price": 1.08427,
+    "exit_price": 1.08477,
+    "lot_size": 2.12,
+    "pnl": -0.10599999999998833,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-17T23:45:00",
+    "exit_time": "2024-10-18T00:00:00",
+    "entry_price": 1.08306,
+    "exit_price": 1.08256,
+    "lot_size": 2.1,
+    "pnl": -0.10499999999998844,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-18T02:00:00",
+    "exit_time": "2024-10-18T04:30:00",
+    "entry_price": 1.08285,
+    "exit_price": 1.08335,
+    "lot_size": 2.08,
+    "pnl": -0.10399999999998855,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-18T11:45:00",
+    "exit_time": "2024-10-18T12:00:00",
+    "entry_price": 1.08378,
+    "exit_price": 1.08428,
+    "lot_size": 2.06,
+    "pnl": -0.10299999999998867,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-18T12:00:00",
+    "exit_time": "2024-10-18T12:15:00",
+    "entry_price": 1.08449,
+    "exit_price": 1.08399,
+    "lot_size": 2.04,
+    "pnl": -0.10199999999998878,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-18T12:15:00",
+    "exit_time": "2024-10-18T12:45:00",
+    "entry_price": 1.08363,
+    "exit_price": 1.08413,
+    "lot_size": 2.02,
+    "pnl": -0.10099999999998888,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-18T12:45:00",
+    "exit_time": "2024-10-18T13:00:00",
+    "entry_price": 1.08443,
+    "exit_price": 1.08393,
+    "lot_size": 2.01,
+    "pnl": -0.10049999999998892,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-21T03:30:00",
+    "exit_time": "2024-10-21T07:45:00",
+    "entry_price": 1.08642,
+    "exit_price": null,
+    "lot_size": 1.99,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-21T15:00:00",
+    "exit_time": "2024-10-21T16:45:00",
+    "entry_price": 1.08554,
+    "exit_price": 1.08504,
+    "lot_size": 1.97,
+    "pnl": -0.09849999999998915,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-21T16:45:00",
+    "exit_time": "2024-10-21T17:15:00",
+    "entry_price": 1.08474,
+    "exit_price": null,
+    "lot_size": 1.95,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-22T04:00:00",
+    "exit_time": "2024-10-22T09:45:00",
+    "entry_price": 1.0818699999999999,
+    "exit_price": 1.0828699999999998,
+    "lot_size": 1.94,
+    "pnl": 0.19399999999997863,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-10-22T12:45:00",
+    "exit_time": "2024-10-22T13:15:00",
+    "entry_price": 1.08159,
+    "exit_price": 1.08209,
+    "lot_size": 1.92,
+    "pnl": -0.09599999999998943,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-22T13:45:00",
+    "exit_time": "2024-10-22T14:30:00",
+    "entry_price": 1.08287,
+    "exit_price": 1.08237,
+    "lot_size": 1.9,
+    "pnl": -0.09499999999998954,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-22T14:30:00",
+    "exit_time": "2024-10-22T15:45:00",
+    "entry_price": 1.08215,
+    "exit_price": 1.08115,
+    "lot_size": 1.89,
+    "pnl": 0.18899999999997918,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-10-23T05:30:00",
+    "exit_time": "2024-10-23T06:30:00",
+    "entry_price": 1.08044,
+    "exit_price": 1.0799400000000001,
+    "lot_size": 1.87,
+    "pnl": -0.0934999999999897,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-23T09:30:00",
+    "exit_time": "2024-10-23T10:00:00",
+    "entry_price": 1.07951,
+    "exit_price": 1.07851,
+    "lot_size": 1.85,
+    "pnl": 0.18499999999997963,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-10-23T17:15:00",
+    "exit_time": "2024-10-23T17:30:00",
+    "entry_price": 1.07802,
+    "exit_price": 1.07752,
+    "lot_size": 1.84,
+    "pnl": -0.09199999999998988,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-23T17:30:00",
+    "exit_time": "2024-10-23T18:00:00",
+    "entry_price": 1.07742,
+    "exit_price": 1.07792,
+    "lot_size": 1.82,
+    "pnl": -0.09099999999998998,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-23T18:00:00",
+    "exit_time": "2024-10-23T18:15:00",
+    "entry_price": 1.07855,
+    "exit_price": 1.07805,
+    "lot_size": 1.8,
+    "pnl": -0.08999999999999009,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-23T19:15:00",
+    "exit_time": "2024-10-23T19:30:00",
+    "entry_price": 1.07717,
+    "exit_price": 1.07767,
+    "lot_size": 1.79,
+    "pnl": -0.08949999999999014,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-23T21:45:00",
+    "exit_time": "2024-10-23T22:45:00",
+    "entry_price": 1.07805,
+    "exit_price": null,
+    "lot_size": 1.77,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-24T09:45:00",
+    "exit_time": "2024-10-24T10:00:00",
+    "entry_price": 1.07834,
+    "exit_price": 1.07884,
+    "lot_size": 1.76,
+    "pnl": -0.08799999999999031,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-24T10:30:00",
+    "exit_time": "2024-10-24T10:45:00",
+    "entry_price": 1.07971,
+    "exit_price": 1.07921,
+    "lot_size": 1.74,
+    "pnl": -0.08699999999999042,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-24T14:45:00",
+    "exit_time": "2024-10-24T15:00:00",
+    "entry_price": 1.07951,
+    "exit_price": 1.08001,
+    "lot_size": 1.73,
+    "pnl": -0.08649999999999047,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-24T15:00:00",
+    "exit_time": "2024-10-24T15:30:00",
+    "entry_price": 1.08008,
+    "exit_price": 1.07958,
+    "lot_size": 1.71,
+    "pnl": -0.08549999999999058,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-25T03:00:00",
+    "exit_time": "2024-10-25T05:15:00",
+    "entry_price": 1.0822,
+    "exit_price": 1.0827,
+    "lot_size": 1.7,
+    "pnl": -0.08499999999999064,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-25T06:30:00",
+    "exit_time": "2024-10-25T09:30:00",
+    "entry_price": 1.08213,
+    "exit_price": null,
+    "lot_size": 1.68,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-25T10:30:00",
+    "exit_time": "2024-10-25T11:15:00",
+    "entry_price": 1.08246,
+    "exit_price": 1.0834599999999999,
+    "lot_size": 1.67,
+    "pnl": 0.1669999999999816,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-10-25T14:45:00",
+    "exit_time": "2024-10-25T15:30:00",
+    "entry_price": 1.08214,
+    "exit_price": 1.08264,
+    "lot_size": 1.65,
+    "pnl": -0.08249999999999091,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-25T15:30:00",
+    "exit_time": "2024-10-25T16:15:00",
+    "entry_price": 1.08366,
+    "exit_price": 1.0831600000000001,
+    "lot_size": 1.64,
+    "pnl": -0.08199999999999097,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-25T18:15:00",
+    "exit_time": "2024-10-25T18:30:00",
+    "entry_price": 1.08202,
+    "exit_price": null,
+    "lot_size": 1.62,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-28T03:30:00",
+    "exit_time": "2024-10-28T04:00:00",
+    "entry_price": 1.07989,
+    "exit_price": 1.07939,
+    "lot_size": 1.61,
+    "pnl": -0.08049999999999113,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-28T09:15:00",
+    "exit_time": "2024-10-28T10:00:00",
+    "entry_price": 1.0790899999999999,
+    "exit_price": null,
+    "lot_size": 1.59,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-28T19:45:00",
+    "exit_time": "2024-10-29T06:15:00",
+    "entry_price": 1.08156,
+    "exit_price": null,
+    "lot_size": 1.58,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-29T10:30:00",
+    "exit_time": "2024-10-29T11:15:00",
+    "entry_price": 1.08122,
+    "exit_price": null,
+    "lot_size": 1.57,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-29T13:30:00",
+    "exit_time": "2024-10-29T14:00:00",
+    "entry_price": 1.08072,
+    "exit_price": null,
+    "lot_size": 1.55,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-29T17:30:00",
+    "exit_time": "2024-10-29T17:45:00",
+    "entry_price": 1.08087,
+    "exit_price": 1.08037,
+    "lot_size": 1.54,
+    "pnl": -0.07699999999999152,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-29T18:00:00",
+    "exit_time": "2024-10-29T18:30:00",
+    "entry_price": 1.07889,
+    "exit_price": 1.0793899999999998,
+    "lot_size": 1.53,
+    "pnl": -0.07649999999999157,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-29T19:00:00",
+    "exit_time": "2024-10-29T19:30:00",
+    "entry_price": 1.08047,
+    "exit_price": 1.07997,
+    "lot_size": 1.51,
+    "pnl": -0.07549999999999168,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-30T05:45:00",
+    "exit_time": "2024-10-30T09:30:00",
+    "entry_price": 1.08182,
+    "exit_price": 1.08232,
+    "lot_size": 1.5,
+    "pnl": -0.07499999999999174,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-30T14:30:00",
+    "exit_time": "2024-10-30T15:15:00",
+    "entry_price": 1.08272,
+    "exit_price": 1.08172,
+    "lot_size": 1.48,
+    "pnl": 0.1479999999999837,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-10-30T16:45:00",
+    "exit_time": "2024-10-30T17:00:00",
+    "entry_price": 1.08435,
+    "exit_price": null,
+    "lot_size": 1.47,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-30T23:45:00",
+    "exit_time": "2024-10-31T04:30:00",
+    "entry_price": 1.08567,
+    "exit_price": null,
+    "lot_size": 1.46,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-10-31T09:45:00",
+    "exit_time": "2024-10-31T10:30:00",
+    "entry_price": 1.08517,
+    "exit_price": 1.0861699999999999,
+    "lot_size": 1.45,
+    "pnl": 0.14499999999998403,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-10-31T17:00:00",
+    "exit_time": "2024-10-31T17:15:00",
+    "entry_price": 1.08589,
+    "exit_price": 1.08639,
+    "lot_size": 1.43,
+    "pnl": -0.07149999999999213,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-31T17:15:00",
+    "exit_time": "2024-10-31T17:30:00",
+    "entry_price": 1.08713,
+    "exit_price": 1.08663,
+    "lot_size": 1.42,
+    "pnl": -0.07099999999999218,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-31T17:30:00",
+    "exit_time": "2024-10-31T17:45:00",
+    "entry_price": 1.08651,
+    "exit_price": 1.08701,
+    "lot_size": 1.41,
+    "pnl": -0.07049999999999222,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-10-31T21:00:00",
+    "exit_time": "2024-10-31T21:45:00",
+    "entry_price": 1.08696,
+    "exit_price": 1.08646,
+    "lot_size": 1.4,
+    "pnl": -0.06999999999999229,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-01T05:00:00",
+    "exit_time": "2024-11-01T09:00:00",
+    "entry_price": 1.08784,
+    "exit_price": null,
+    "lot_size": 1.38,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-01T15:00:00",
+    "exit_time": "2024-11-01T15:30:00",
+    "entry_price": 1.08666,
+    "exit_price": 1.0876599999999998,
+    "lot_size": 1.37,
+    "pnl": 0.1369999999999849,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-11-01T17:15:00",
+    "exit_time": "2024-11-01T17:30:00",
+    "entry_price": 1.08587,
+    "exit_price": null,
+    "lot_size": 1.36,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-04T00:00:00",
+    "exit_time": "2024-11-04T01:00:00",
+    "entry_price": 1.08778,
+    "exit_price": 1.08728,
+    "lot_size": 1.35,
+    "pnl": -0.06749999999999257,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-04T09:15:00",
+    "exit_time": "2024-11-04T09:30:00",
+    "entry_price": 1.0889199999999999,
+    "exit_price": 1.0894199999999998,
+    "lot_size": 1.34,
+    "pnl": -0.06699999999999263,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-04T10:00:00",
+    "exit_time": "2024-11-04T10:15:00",
+    "entry_price": 1.08993,
+    "exit_price": 1.0894300000000001,
+    "lot_size": 1.32,
+    "pnl": -0.06599999999999273,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-04T17:45:00",
+    "exit_time": "2024-11-04T18:00:00",
+    "entry_price": 1.08992,
+    "exit_price": null,
+    "lot_size": 1.31,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-05T04:15:00",
+    "exit_time": "2024-11-05T09:00:00",
+    "entry_price": 1.08788,
+    "exit_price": null,
+    "lot_size": 1.3,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-06T01:00:00",
+    "exit_time": "2024-11-06T01:30:00",
+    "entry_price": 1.09185,
+    "exit_price": 1.09235,
+    "lot_size": 1.29,
+    "pnl": -0.0644999999999929,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-06T01:45:00",
+    "exit_time": "2024-11-06T02:00:00",
+    "entry_price": 1.09341,
+    "exit_price": 1.09291,
+    "lot_size": 1.28,
+    "pnl": -0.06399999999999295,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-06T02:00:00",
+    "exit_time": "2024-11-06T02:15:00",
+    "entry_price": 1.08948,
+    "exit_price": 1.08998,
+    "lot_size": 1.27,
+    "pnl": -0.063499999999993,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-06T11:00:00",
+    "exit_time": "2024-11-06T11:15:00",
+    "entry_price": 1.07677,
+    "exit_price": 1.07627,
+    "lot_size": 1.26,
+    "pnl": -0.06299999999999306,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-06T11:45:00",
+    "exit_time": "2024-11-06T12:00:00",
+    "entry_price": 1.07553,
+    "exit_price": 1.0745300000000002,
+    "lot_size": 1.24,
+    "pnl": 0.12399999999998634,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-11-06T17:15:00",
+    "exit_time": "2024-11-06T17:30:00",
+    "entry_price": 1.07283,
+    "exit_price": 1.07233,
+    "lot_size": 1.23,
+    "pnl": -0.06149999999999322,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-06T23:00:00",
+    "exit_time": "2024-11-07T02:00:00",
+    "entry_price": 1.07323,
+    "exit_price": 1.0737299999999999,
+    "lot_size": 1.22,
+    "pnl": -0.060999999999993275,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-07T02:00:00",
+    "exit_time": "2024-11-07T02:15:00",
+    "entry_price": 1.07362,
+    "exit_price": 1.07312,
+    "lot_size": 1.21,
+    "pnl": -0.06049999999999334,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-07T02:15:00",
+    "exit_time": "2024-11-07T02:45:00",
+    "entry_price": 1.07284,
+    "exit_price": null,
+    "lot_size": 1.2,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-07T04:45:00",
+    "exit_time": "2024-11-07T07:45:00",
+    "entry_price": 1.07368,
+    "exit_price": 1.0746799999999999,
+    "lot_size": 1.19,
+    "pnl": 0.1189999999999869,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-11-07T21:15:00",
+    "exit_time": "2024-11-07T21:30:00",
+    "entry_price": 1.0783800000000001,
+    "exit_price": 1.07888,
+    "lot_size": 1.18,
+    "pnl": -0.058999999999993495,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-07T22:15:00",
+    "exit_time": "2024-11-07T22:30:00",
+    "entry_price": 1.08032,
+    "exit_price": 1.07982,
+    "lot_size": 1.17,
+    "pnl": -0.05849999999999355,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-08T02:00:00",
+    "exit_time": "2024-11-08T03:00:00",
+    "entry_price": 1.07941,
+    "exit_price": null,
+    "lot_size": 1.16,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-08T11:15:00",
+    "exit_time": "2024-11-08T11:45:00",
+    "entry_price": 1.07808,
+    "exit_price": 1.07758,
+    "lot_size": 1.15,
+    "pnl": -0.05749999999999367,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-08T12:00:00",
+    "exit_time": "2024-11-08T12:30:00",
+    "entry_price": 1.07761,
+    "exit_price": null,
+    "lot_size": 1.14,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-08T13:00:00",
+    "exit_time": "2024-11-08T13:15:00",
+    "entry_price": 1.07853,
+    "exit_price": null,
+    "lot_size": 1.13,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-08T14:15:00",
+    "exit_time": "2024-11-08T14:30:00",
+    "entry_price": 1.0771600000000001,
+    "exit_price": 1.07766,
+    "lot_size": 1.12,
+    "pnl": -0.05599999999999384,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-11T02:30:00",
+    "exit_time": "2024-11-11T03:00:00",
+    "entry_price": 1.07163,
+    "exit_price": null,
+    "lot_size": 1.11,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-11T06:00:00",
+    "exit_time": "2024-11-11T06:30:00",
+    "entry_price": 1.0714299999999999,
+    "exit_price": null,
+    "lot_size": 1.1,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-11T08:45:00",
+    "exit_time": "2024-11-11T09:00:00",
+    "entry_price": 1.0721,
+    "exit_price": 1.0716,
+    "lot_size": 1.09,
+    "pnl": -0.054499999999994005,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-11T09:15:00",
+    "exit_time": "2024-11-11T09:30:00",
+    "entry_price": 1.07079,
+    "exit_price": 1.06979,
+    "lot_size": 1.08,
+    "pnl": 0.10799999999998812,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-11-11T21:30:00",
+    "exit_time": "2024-11-12T01:45:00",
+    "entry_price": 1.0654,
+    "exit_price": null,
+    "lot_size": 1.07,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-12T03:30:00",
+    "exit_time": "2024-11-12T03:45:00",
+    "entry_price": 1.06551,
+    "exit_price": null,
+    "lot_size": 1.06,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-12T20:45:00",
+    "exit_time": "2024-11-12T22:00:00",
+    "entry_price": 1.06162,
+    "exit_price": 1.06112,
+    "lot_size": 1.05,
+    "pnl": -0.05249999999999422,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-13T01:45:00",
+    "exit_time": "2024-11-13T02:00:00",
+    "entry_price": 1.06166,
+    "exit_price": null,
+    "lot_size": 1.04,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-13T03:30:00",
+    "exit_time": "2024-11-13T04:00:00",
+    "entry_price": 1.0628,
+    "exit_price": 1.0623,
+    "lot_size": 1.03,
+    "pnl": -0.051499999999994335,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-13T06:00:00",
+    "exit_time": "2024-11-13T07:15:00",
+    "entry_price": 1.06178,
+    "exit_price": null,
+    "lot_size": 1.02,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-13T11:15:00",
+    "exit_time": "2024-11-13T12:30:00",
+    "entry_price": 1.06222,
+    "exit_price": 1.06172,
+    "lot_size": 1.02,
+    "pnl": -0.05099999999999439,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-13T13:30:00",
+    "exit_time": "2024-11-13T13:45:00",
+    "entry_price": 1.06134,
+    "exit_price": 1.06184,
+    "lot_size": 1.01,
+    "pnl": -0.05049999999999444,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-13T13:45:00",
+    "exit_time": "2024-11-13T14:00:00",
+    "entry_price": 1.06376,
+    "exit_price": 1.06326,
+    "lot_size": 1.0,
+    "pnl": -0.04999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-13T16:45:00",
+    "exit_time": "2024-11-13T17:00:00",
+    "entry_price": 1.05855,
+    "exit_price": 1.0575500000000002,
+    "lot_size": 0.99,
+    "pnl": 0.0989999999999891,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-11-14T02:30:00",
+    "exit_time": "2024-11-14T03:00:00",
+    "entry_price": 1.05683,
+    "exit_price": 1.05633,
+    "lot_size": 0.98,
+    "pnl": -0.048999999999994596,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-14T14:30:00",
+    "exit_time": "2024-11-14T14:45:00",
+    "entry_price": 1.05398,
+    "exit_price": 1.05348,
+    "lot_size": 0.97,
+    "pnl": -0.04849999999999466,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-14T20:15:00",
+    "exit_time": "2024-11-14T21:15:00",
+    "entry_price": 1.05467,
+    "exit_price": 1.05517,
+    "lot_size": 0.96,
+    "pnl": -0.047999999999994714,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-15T03:15:00",
+    "exit_time": "2024-11-15T03:30:00",
+    "entry_price": 1.05413,
+    "exit_price": 1.05363,
+    "lot_size": 0.95,
+    "pnl": -0.04749999999999477,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-15T15:45:00",
+    "exit_time": "2024-11-15T16:00:00",
+    "entry_price": 1.05585,
+    "exit_price": 1.05485,
+    "lot_size": 0.95,
+    "pnl": 0.09499999999998954,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-11-15T19:30:00",
+    "exit_time": "2024-11-15T19:45:00",
+    "entry_price": 1.05554,
+    "exit_price": 1.05504,
+    "lot_size": 0.94,
+    "pnl": -0.046999999999994824,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-15T20:00:00",
+    "exit_time": "2024-11-15T20:45:00",
+    "entry_price": 1.05477,
+    "exit_price": 1.05527,
+    "lot_size": 0.93,
+    "pnl": -0.04649999999999488,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-18T02:00:00",
+    "exit_time": "2024-11-18T02:30:00",
+    "entry_price": 1.05365,
+    "exit_price": null,
+    "lot_size": 0.92,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-18T05:30:00",
+    "exit_time": "2024-11-18T06:15:00",
+    "entry_price": 1.05332,
+    "exit_price": 1.05382,
+    "lot_size": 0.91,
+    "pnl": -0.04549999999999499,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-18T07:30:00",
+    "exit_time": "2024-11-18T07:45:00",
+    "entry_price": 1.05423,
+    "exit_price": 1.05373,
+    "lot_size": 0.91,
+    "pnl": -0.04549999999999499,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-18T13:00:00",
+    "exit_time": "2024-11-18T14:45:00",
+    "entry_price": 1.05395,
+    "exit_price": 1.0544499999999999,
+    "lot_size": 0.9,
+    "pnl": -0.044999999999995044,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-18T15:15:00",
+    "exit_time": "2024-11-18T15:45:00",
+    "entry_price": 1.05569,
+    "exit_price": 1.05669,
+    "lot_size": 0.89,
+    "pnl": 0.0889999999999902,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-11-19T02:30:00",
+    "exit_time": "2024-11-19T02:45:00",
+    "entry_price": 1.0589,
+    "exit_price": 1.0594,
+    "lot_size": 0.88,
+    "pnl": -0.043999999999995154,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-19T05:00:00",
+    "exit_time": "2024-11-19T06:30:00",
+    "entry_price": 1.05953,
+    "exit_price": 1.0590300000000001,
+    "lot_size": 0.87,
+    "pnl": -0.04349999999999521,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-19T06:45:00",
+    "exit_time": "2024-11-19T08:30:00",
+    "entry_price": 1.0587,
+    "exit_price": 1.0592,
+    "lot_size": 0.87,
+    "pnl": -0.04349999999999521,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-19T14:45:00",
+    "exit_time": "2024-11-19T15:00:00",
+    "entry_price": 1.05721,
+    "exit_price": null,
+    "lot_size": 0.86,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-19T20:00:00",
+    "exit_time": "2024-11-19T20:30:00",
+    "entry_price": 1.05734,
+    "exit_price": 1.05784,
+    "lot_size": 0.85,
+    "pnl": -0.04249999999999532,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-19T20:30:00",
+    "exit_time": "2024-11-19T20:45:00",
+    "entry_price": 1.05836,
+    "exit_price": null,
+    "lot_size": 0.84,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-20T04:45:00",
+    "exit_time": "2024-11-20T06:30:00",
+    "entry_price": 1.05959,
+    "exit_price": null,
+    "lot_size": 0.84,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-20T21:00:00",
+    "exit_time": "2024-11-21T02:15:00",
+    "entry_price": 1.05381,
+    "exit_price": null,
+    "lot_size": 0.83,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-21T07:45:00",
+    "exit_time": "2024-11-21T08:00:00",
+    "entry_price": 1.05466,
+    "exit_price": 1.0551599999999999,
+    "lot_size": 0.82,
+    "pnl": -0.040999999999995485,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-21T08:00:00",
+    "exit_time": "2024-11-21T08:15:00",
+    "entry_price": 1.0553,
+    "exit_price": 1.0548,
+    "lot_size": 0.81,
+    "pnl": -0.04049999999999554,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-21T08:45:00",
+    "exit_time": "2024-11-21T09:00:00",
+    "entry_price": 1.05454,
+    "exit_price": 1.0535400000000001,
+    "lot_size": 0.81,
+    "pnl": 0.08099999999999108,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-11-21T15:30:00",
+    "exit_time": "2024-11-21T15:45:00",
+    "entry_price": 1.05338,
+    "exit_price": 1.05288,
+    "lot_size": 0.8,
+    "pnl": -0.039999999999995595,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-21T17:45:00",
+    "exit_time": "2024-11-21T18:00:00",
+    "entry_price": 1.05105,
+    "exit_price": 1.0500500000000001,
+    "lot_size": 0.79,
+    "pnl": 0.0789999999999913,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-11-22T05:15:00",
+    "exit_time": "2024-11-22T06:15:00",
+    "entry_price": 1.04771,
+    "exit_price": 1.04721,
+    "lot_size": 0.79,
+    "pnl": -0.03949999999999565,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-22T09:15:00",
+    "exit_time": "2024-11-22T09:30:00",
+    "entry_price": 1.04793,
+    "exit_price": 1.04893,
+    "lot_size": 0.78,
+    "pnl": 0.07799999999999141,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-11-22T10:45:00",
+    "exit_time": "2024-11-22T11:00:00",
+    "entry_price": 1.04436,
+    "exit_price": 1.04336,
+    "lot_size": 0.77,
+    "pnl": 0.07699999999999152,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-11-22T19:45:00",
+    "exit_time": "2024-11-22T21:15:00",
+    "entry_price": 1.0419,
+    "exit_price": 1.0414,
+    "lot_size": 0.76,
+    "pnl": -0.037999999999995815,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-22T21:30:00",
+    "exit_time": "2024-11-22T22:30:00",
+    "entry_price": 1.04106,
+    "exit_price": 1.04156,
+    "lot_size": 0.76,
+    "pnl": -0.037999999999995815,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-22T22:30:00",
+    "exit_time": "2024-11-25T00:00:00",
+    "entry_price": 1.04163,
+    "exit_price": 1.04263,
+    "lot_size": 0.75,
+    "pnl": 0.07499999999999174,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-11-25T09:15:00",
+    "exit_time": "2024-11-25T09:30:00",
+    "entry_price": 1.04707,
+    "exit_price": null,
+    "lot_size": 0.75,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-25T11:30:00",
+    "exit_time": "2024-11-25T11:45:00",
+    "entry_price": 1.04792,
+    "exit_price": 1.0489199999999999,
+    "lot_size": 0.74,
+    "pnl": 0.07399999999999185,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-11-25T18:00:00",
+    "exit_time": "2024-11-25T18:15:00",
+    "entry_price": 1.04902,
+    "exit_price": null,
+    "lot_size": 0.73,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-25T20:30:00",
+    "exit_time": "2024-11-25T20:45:00",
+    "entry_price": 1.04987,
+    "exit_price": null,
+    "lot_size": 0.73,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-25T23:00:00",
+    "exit_time": "2024-11-26T01:00:00",
+    "entry_price": 1.04946,
+    "exit_price": 1.04996,
+    "lot_size": 0.72,
+    "pnl": -0.035999999999996035,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-26T05:30:00",
+    "exit_time": "2024-11-26T05:45:00",
+    "entry_price": 1.04727,
+    "exit_price": null,
+    "lot_size": 0.71,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-26T10:00:00",
+    "exit_time": "2024-11-26T10:15:00",
+    "entry_price": 1.04719,
+    "exit_price": 1.04769,
+    "lot_size": 0.71,
+    "pnl": -0.03549999999999609,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-26T10:15:00",
+    "exit_time": "2024-11-26T10:45:00",
+    "entry_price": 1.04829,
+    "exit_price": 1.0492899999999998,
+    "lot_size": 0.7,
+    "pnl": 0.06999999999999229,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-11-26T16:00:00",
+    "exit_time": "2024-11-26T16:15:00",
+    "entry_price": 1.04934,
+    "exit_price": 1.0498399999999999,
+    "lot_size": 0.69,
+    "pnl": -0.0344999999999962,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-26T22:45:00",
+    "exit_time": "2024-11-26T23:00:00",
+    "entry_price": 1.0481,
+    "exit_price": null,
+    "lot_size": 0.69,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-27T04:15:00",
+    "exit_time": "2024-11-27T06:15:00",
+    "entry_price": 1.04842,
+    "exit_price": null,
+    "lot_size": 0.68,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-27T09:00:00",
+    "exit_time": "2024-11-27T09:15:00",
+    "entry_price": 1.04848,
+    "exit_price": 1.04948,
+    "lot_size": 0.68,
+    "pnl": 0.06799999999999251,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-11-27T22:30:00",
+    "exit_time": "2024-11-27T23:15:00",
+    "entry_price": 1.05628,
+    "exit_price": 1.05678,
+    "lot_size": 0.67,
+    "pnl": -0.03349999999999632,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-28T01:45:00",
+    "exit_time": "2024-11-28T02:00:00",
+    "entry_price": 1.05621,
+    "exit_price": null,
+    "lot_size": 0.66,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-11-28T13:00:00",
+    "exit_time": "2024-11-28T13:45:00",
+    "entry_price": 1.05547,
+    "exit_price": 1.05497,
+    "lot_size": 0.66,
+    "pnl": -0.032999999999996366,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-28T15:15:00",
+    "exit_time": "2024-11-28T15:30:00",
+    "entry_price": 1.05413,
+    "exit_price": 1.05463,
+    "lot_size": 0.65,
+    "pnl": -0.03249999999999642,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-28T17:00:00",
+    "exit_time": "2024-11-28T17:15:00",
+    "entry_price": 1.05548,
+    "exit_price": 1.05498,
+    "lot_size": 0.65,
+    "pnl": -0.03249999999999642,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-29T00:00:00",
+    "exit_time": "2024-11-29T00:45:00",
+    "entry_price": 1.055,
+    "exit_price": 1.0554999999999999,
+    "lot_size": 0.64,
+    "pnl": -0.031999999999996476,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-29T01:15:00",
+    "exit_time": "2024-11-29T02:30:00",
+    "entry_price": 1.05593,
+    "exit_price": 1.05693,
+    "lot_size": 0.64,
+    "pnl": 0.06399999999999295,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-11-29T10:30:00",
+    "exit_time": "2024-11-29T10:45:00",
+    "entry_price": 1.05676,
+    "exit_price": 1.0572599999999999,
+    "lot_size": 0.63,
+    "pnl": -0.03149999999999653,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-29T11:00:00",
+    "exit_time": "2024-11-29T11:15:00",
+    "entry_price": 1.05797,
+    "exit_price": 1.0574700000000001,
+    "lot_size": 0.62,
+    "pnl": -0.030999999999996586,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-11-29T11:15:00",
+    "exit_time": "2024-11-29T11:30:00",
+    "entry_price": 1.05705,
+    "exit_price": 1.0560500000000002,
+    "lot_size": 0.62,
+    "pnl": 0.06199999999999317,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-11-29T19:45:00",
+    "exit_time": "2024-11-29T20:00:00",
+    "entry_price": 1.05673,
+    "exit_price": 1.0577299999999998,
+    "lot_size": 0.61,
+    "pnl": 0.060999999999993275,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-12-02T00:15:00",
+    "exit_time": "2024-12-02T00:45:00",
+    "entry_price": 1.05651,
+    "exit_price": null,
+    "lot_size": 0.61,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-02T08:45:00",
+    "exit_time": "2024-12-02T09:00:00",
+    "entry_price": 1.0533,
+    "exit_price": 1.0528,
+    "lot_size": 0.6,
+    "pnl": -0.029999999999996696,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-02T09:00:00",
+    "exit_time": "2024-12-02T09:15:00",
+    "entry_price": 1.05175,
+    "exit_price": 1.05225,
+    "lot_size": 0.6,
+    "pnl": -0.029999999999996696,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-02T12:45:00",
+    "exit_time": "2024-12-02T14:00:00",
+    "entry_price": 1.05219,
+    "exit_price": 1.0531899999999998,
+    "lot_size": 0.59,
+    "pnl": 0.058999999999993495,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-12-02T14:45:00",
+    "exit_time": "2024-12-02T15:00:00",
+    "entry_price": 1.0501,
+    "exit_price": 1.0506,
+    "lot_size": 0.59,
+    "pnl": -0.029499999999996748,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-02T21:15:00",
+    "exit_time": "2024-12-02T22:15:00",
+    "entry_price": 1.04919,
+    "exit_price": 1.05019,
+    "lot_size": 0.58,
+    "pnl": 0.057999999999993605,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-12-03T02:15:00",
+    "exit_time": "2024-12-03T03:00:00",
+    "entry_price": 1.04893,
+    "exit_price": 1.0494299999999999,
+    "lot_size": 0.58,
+    "pnl": -0.028999999999996803,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-03T09:00:00",
+    "exit_time": "2024-12-03T09:15:00",
+    "entry_price": 1.04951,
+    "exit_price": null,
+    "lot_size": 0.57,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-03T14:45:00",
+    "exit_time": "2024-12-03T15:00:00",
+    "entry_price": 1.05076,
+    "exit_price": 1.0512599999999999,
+    "lot_size": 0.57,
+    "pnl": -0.02849999999999686,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-03T15:30:00",
+    "exit_time": "2024-12-03T15:45:00",
+    "entry_price": 1.05186,
+    "exit_price": null,
+    "lot_size": 0.56,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-03T17:00:00",
+    "exit_time": "2024-12-03T17:15:00",
+    "entry_price": 1.05023,
+    "exit_price": null,
+    "lot_size": 0.56,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-03T19:00:00",
+    "exit_time": "2024-12-03T19:15:00",
+    "entry_price": 1.05211,
+    "exit_price": 1.0516100000000002,
+    "lot_size": 0.55,
+    "pnl": -0.02749999999999697,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-03T19:30:00",
+    "exit_time": "2024-12-03T19:45:00",
+    "entry_price": 1.051,
+    "exit_price": 1.0514999999999999,
+    "lot_size": 0.55,
+    "pnl": -0.02749999999999697,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-03T19:45:00",
+    "exit_time": "2024-12-03T21:00:00",
+    "entry_price": 1.05286,
+    "exit_price": 1.05236,
+    "lot_size": 0.54,
+    "pnl": -0.02699999999999703,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-03T21:30:00",
+    "exit_time": "2024-12-03T21:45:00",
+    "entry_price": 1.05126,
+    "exit_price": null,
+    "lot_size": 0.54,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-04T06:30:00",
+    "exit_time": "2024-12-04T07:15:00",
+    "entry_price": 1.05085,
+    "exit_price": null,
+    "lot_size": 0.53,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-04T10:15:00",
+    "exit_time": "2024-12-04T10:45:00",
+    "entry_price": 1.05039,
+    "exit_price": 1.04939,
+    "lot_size": 0.53,
+    "pnl": 0.05299999999999416,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-12-04T13:30:00",
+    "exit_time": "2024-12-04T13:45:00",
+    "entry_price": 1.05119,
+    "exit_price": 1.0506900000000001,
+    "lot_size": 0.52,
+    "pnl": -0.025999999999997137,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-04T14:00:00",
+    "exit_time": "2024-12-04T14:45:00",
+    "entry_price": 1.04978,
+    "exit_price": null,
+    "lot_size": 0.52,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-04T17:00:00",
+    "exit_time": "2024-12-04T17:15:00",
+    "entry_price": 1.05215,
+    "exit_price": 1.0531499999999998,
+    "lot_size": 0.51,
+    "pnl": 0.05099999999999439,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-12-04T21:30:00",
+    "exit_time": "2024-12-04T21:45:00",
+    "entry_price": 1.05131,
+    "exit_price": 1.05181,
+    "lot_size": 0.51,
+    "pnl": -0.025499999999997195,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-05T02:45:00",
+    "exit_time": "2024-12-05T03:45:00",
+    "entry_price": 1.05143,
+    "exit_price": 1.0509300000000001,
+    "lot_size": 0.5,
+    "pnl": -0.024999999999997247,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-05T03:45:00",
+    "exit_time": "2024-12-05T04:15:00",
+    "entry_price": 1.05122,
+    "exit_price": 1.05172,
+    "lot_size": 0.5,
+    "pnl": -0.024999999999997247,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-05T12:45:00",
+    "exit_time": "2024-12-05T13:30:00",
+    "entry_price": 1.0526200000000001,
+    "exit_price": 1.05312,
+    "lot_size": 0.5,
+    "pnl": -0.024999999999997247,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-05T13:30:00",
+    "exit_time": "2024-12-05T14:15:00",
+    "entry_price": 1.05337,
+    "exit_price": 1.05287,
+    "lot_size": 0.49,
+    "pnl": -0.024499999999997298,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-06T02:30:00",
+    "exit_time": "2024-12-06T03:00:00",
+    "entry_price": 1.058,
+    "exit_price": null,
+    "lot_size": 0.49,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-06T09:45:00",
+    "exit_time": "2024-12-06T10:00:00",
+    "entry_price": 1.05839,
+    "exit_price": 1.0593899999999998,
+    "lot_size": 0.48,
+    "pnl": 0.047999999999994714,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-12-06T12:00:00",
+    "exit_time": "2024-12-06T12:30:00",
+    "entry_price": 1.05736,
+    "exit_price": 1.05786,
+    "lot_size": 0.48,
+    "pnl": -0.023999999999997357,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-06T12:30:00",
+    "exit_time": "2024-12-06T13:45:00",
+    "entry_price": 1.05799,
+    "exit_price": null,
+    "lot_size": 0.47,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-06T16:45:00",
+    "exit_time": "2024-12-06T17:00:00",
+    "entry_price": 1.05789,
+    "exit_price": 1.05689,
+    "lot_size": 0.47,
+    "pnl": 0.046999999999994824,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-12-06T22:45:00",
+    "exit_time": "2024-12-09T00:00:00",
+    "entry_price": 1.05636,
+    "exit_price": 1.05586,
+    "lot_size": 0.47,
+    "pnl": -0.023499999999997412,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-09T00:30:00",
+    "exit_time": "2024-12-09T01:00:00",
+    "entry_price": 1.05608,
+    "exit_price": 1.0565799999999999,
+    "lot_size": 0.46,
+    "pnl": -0.02299999999999747,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-09T01:00:00",
+    "exit_time": "2024-12-09T01:15:00",
+    "entry_price": 1.05672,
+    "exit_price": 1.0562200000000002,
+    "lot_size": 0.46,
+    "pnl": -0.02299999999999747,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-09T02:15:00",
+    "exit_time": "2024-12-09T03:30:00",
+    "entry_price": 1.05587,
+    "exit_price": null,
+    "lot_size": 0.45,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-09T09:00:00",
+    "exit_time": "2024-12-09T09:15:00",
+    "entry_price": 1.0548,
+    "exit_price": null,
+    "lot_size": 0.45,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-09T14:30:00",
+    "exit_time": "2024-12-09T14:45:00",
+    "entry_price": 1.05612,
+    "exit_price": 1.05662,
+    "lot_size": 0.45,
+    "pnl": -0.022499999999997522,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-09T15:30:00",
+    "exit_time": "2024-12-09T16:15:00",
+    "entry_price": 1.05731,
+    "exit_price": 1.0583099999999999,
+    "lot_size": 0.44,
+    "pnl": 0.043999999999995154,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-12-09T19:00:00",
+    "exit_time": "2024-12-09T20:00:00",
+    "entry_price": 1.05699,
+    "exit_price": null,
+    "lot_size": 0.44,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-10T04:15:00",
+    "exit_time": "2024-12-10T05:30:00",
+    "entry_price": 1.05545,
+    "exit_price": 1.05495,
+    "lot_size": 0.43,
+    "pnl": -0.021499999999997632,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-10T05:30:00",
+    "exit_time": "2024-12-10T07:45:00",
+    "entry_price": 1.05548,
+    "exit_price": null,
+    "lot_size": 0.43,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-10T09:45:00",
+    "exit_time": "2024-12-10T10:00:00",
+    "entry_price": 1.05488,
+    "exit_price": null,
+    "lot_size": 0.43,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-10T20:30:00",
+    "exit_time": "2024-12-10T21:00:00",
+    "entry_price": 1.05211,
+    "exit_price": null,
+    "lot_size": 0.42,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-11T05:45:00",
+    "exit_time": "2024-12-11T06:30:00",
+    "entry_price": 1.05282,
+    "exit_price": null,
+    "lot_size": 0.42,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-11T14:15:00",
+    "exit_time": "2024-12-11T14:30:00",
+    "entry_price": 1.05072,
+    "exit_price": 1.0502200000000002,
+    "lot_size": 0.42,
+    "pnl": -0.020999999999997687,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-11T16:45:00",
+    "exit_time": "2024-12-11T17:00:00",
+    "entry_price": 1.05008,
+    "exit_price": 1.0505799999999998,
+    "lot_size": 0.41,
+    "pnl": -0.020499999999997742,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-11T23:45:00",
+    "exit_time": "2024-12-12T00:00:00",
+    "entry_price": 1.04959,
+    "exit_price": 1.04909,
+    "lot_size": 0.41,
+    "pnl": -0.020499999999997742,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-12T12:15:00",
+    "exit_time": "2024-12-12T12:30:00",
+    "entry_price": 1.05092,
+    "exit_price": null,
+    "lot_size": 0.4,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-12T16:45:00",
+    "exit_time": "2024-12-12T17:00:00",
+    "entry_price": 1.05194,
+    "exit_price": 1.0514400000000002,
+    "lot_size": 0.4,
+    "pnl": -0.019999999999997797,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-12T17:15:00",
+    "exit_time": "2024-12-12T17:30:00",
+    "entry_price": 1.04834,
+    "exit_price": 1.0473400000000002,
+    "lot_size": 0.4,
+    "pnl": 0.039999999999995595,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-12-12T18:30:00",
+    "exit_time": "2024-12-12T18:45:00",
+    "entry_price": 1.05077,
+    "exit_price": null,
+    "lot_size": 0.39,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-12T20:15:00",
+    "exit_time": "2024-12-12T20:30:00",
+    "entry_price": 1.04932,
+    "exit_price": 1.0483200000000001,
+    "lot_size": 0.39,
+    "pnl": 0.038999999999995705,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-12-13T02:30:00",
+    "exit_time": "2024-12-13T03:15:00",
+    "entry_price": 1.04757,
+    "exit_price": 1.04707,
+    "lot_size": 0.39,
+    "pnl": -0.019499999999997852,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-13T03:15:00",
+    "exit_time": "2024-12-13T04:45:00",
+    "entry_price": 1.04673,
+    "exit_price": null,
+    "lot_size": 0.38,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-13T10:00:00",
+    "exit_time": "2024-12-13T10:15:00",
+    "entry_price": 1.04711,
+    "exit_price": 1.04661,
+    "lot_size": 0.38,
+    "pnl": -0.018999999999997907,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-13T17:00:00",
+    "exit_time": "2024-12-13T17:15:00",
+    "entry_price": 1.04867,
+    "exit_price": 1.04917,
+    "lot_size": 0.38,
+    "pnl": -0.018999999999997907,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-13T18:30:00",
+    "exit_time": "2024-12-13T19:00:00",
+    "entry_price": 1.04996,
+    "exit_price": 1.04946,
+    "lot_size": 0.37,
+    "pnl": -0.018499999999997963,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-13T20:00:00",
+    "exit_time": "2024-12-13T20:15:00",
+    "entry_price": 1.04899,
+    "exit_price": 1.04949,
+    "lot_size": 0.37,
+    "pnl": -0.018499999999997963,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-13T20:45:00",
+    "exit_time": "2024-12-13T21:00:00",
+    "entry_price": 1.0496,
+    "exit_price": null,
+    "lot_size": 0.37,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-13T22:00:00",
+    "exit_time": "2024-12-13T23:15:00",
+    "entry_price": 1.04945,
+    "exit_price": 1.04995,
+    "lot_size": 0.36,
+    "pnl": -0.017999999999998018,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-16T00:00:00",
+    "exit_time": "2024-12-16T00:30:00",
+    "entry_price": 1.04865,
+    "exit_price": 1.04915,
+    "lot_size": 0.36,
+    "pnl": -0.017999999999998018,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-16T01:00:00",
+    "exit_time": "2024-12-16T02:30:00",
+    "entry_price": 1.05061,
+    "exit_price": 1.05161,
+    "lot_size": 0.36,
+    "pnl": 0.035999999999996035,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-12-16T09:00:00",
+    "exit_time": "2024-12-16T09:15:00",
+    "entry_price": 1.05129,
+    "exit_price": 1.05179,
+    "lot_size": 0.35,
+    "pnl": -0.017499999999998073,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-16T09:15:00",
+    "exit_time": "2024-12-16T09:30:00",
+    "entry_price": 1.05178,
+    "exit_price": 1.05128,
+    "lot_size": 0.35,
+    "pnl": -0.017499999999998073,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-16T09:45:00",
+    "exit_time": "2024-12-16T10:00:00",
+    "entry_price": 1.05049,
+    "exit_price": 1.0509899999999999,
+    "lot_size": 0.35,
+    "pnl": -0.017499999999998073,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-16T15:45:00",
+    "exit_time": "2024-12-16T16:00:00",
+    "entry_price": 1.05076,
+    "exit_price": 1.05026,
+    "lot_size": 0.35,
+    "pnl": -0.017499999999998073,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-16T16:15:00",
+    "exit_time": "2024-12-16T16:45:00",
+    "entry_price": 1.04908,
+    "exit_price": 1.0480800000000001,
+    "lot_size": 0.34,
+    "pnl": 0.033999999999996255,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-12-16T17:30:00",
+    "exit_time": "2024-12-16T17:45:00",
+    "entry_price": 1.05092,
+    "exit_price": 1.0504200000000001,
+    "lot_size": 0.34,
+    "pnl": -0.016999999999998128,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-17T00:30:00",
+    "exit_time": "2024-12-17T01:15:00",
+    "entry_price": 1.05087,
+    "exit_price": 1.05137,
+    "lot_size": 0.34,
+    "pnl": -0.016999999999998128,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-17T05:30:00",
+    "exit_time": "2024-12-17T07:30:00",
+    "entry_price": 1.05142,
+    "exit_price": null,
+    "lot_size": 0.33,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-17T14:30:00",
+    "exit_time": "2024-12-17T14:45:00",
+    "entry_price": 1.04953,
+    "exit_price": null,
+    "lot_size": 0.33,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-17T20:15:00",
+    "exit_time": "2024-12-17T20:30:00",
+    "entry_price": 1.04988,
+    "exit_price": 1.0503799999999999,
+    "lot_size": 0.33,
+    "pnl": -0.016499999999998183,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-17T20:30:00",
+    "exit_time": "2024-12-17T20:45:00",
+    "entry_price": 1.05017,
+    "exit_price": 1.04967,
+    "lot_size": 0.32,
+    "pnl": -0.015999999999998238,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-17T20:45:00",
+    "exit_time": "2024-12-17T21:15:00",
+    "entry_price": 1.04934,
+    "exit_price": null,
+    "lot_size": 0.32,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-18T01:30:00",
+    "exit_time": "2024-12-18T02:15:00",
+    "entry_price": 1.04947,
+    "exit_price": null,
+    "lot_size": 0.32,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-18T09:45:00",
+    "exit_time": "2024-12-18T10:00:00",
+    "entry_price": 1.04969,
+    "exit_price": null,
+    "lot_size": 0.32,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-18T13:15:00",
+    "exit_time": "2024-12-18T13:45:00",
+    "entry_price": 1.05004,
+    "exit_price": 1.0495400000000001,
+    "lot_size": 0.31,
+    "pnl": -0.015499999999998293,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-18T14:00:00",
+    "exit_time": "2024-12-18T14:15:00",
+    "entry_price": 1.04924,
+    "exit_price": 1.04974,
+    "lot_size": 0.31,
+    "pnl": -0.015499999999998293,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-18T20:30:00",
+    "exit_time": "2024-12-18T20:45:00",
+    "entry_price": 1.04912,
+    "exit_price": 1.04862,
+    "lot_size": 0.31,
+    "pnl": -0.015499999999998293,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-18T21:00:00",
+    "exit_time": "2024-12-18T21:15:00",
+    "entry_price": 1.04144,
+    "exit_price": 1.0419399999999999,
+    "lot_size": 0.31,
+    "pnl": -0.015499999999998293,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-19T03:45:00",
+    "exit_time": "2024-12-19T04:15:00",
+    "entry_price": 1.0378,
+    "exit_price": 1.0373,
+    "lot_size": 0.3,
+    "pnl": -0.014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-19T04:15:00",
+    "exit_time": "2024-12-19T04:45:00",
+    "entry_price": 1.03767,
+    "exit_price": 1.03867,
+    "lot_size": 0.3,
+    "pnl": 0.029999999999996696,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-12-19T14:15:00",
+    "exit_time": "2024-12-19T14:30:00",
+    "entry_price": 1.04006,
+    "exit_price": 1.04056,
+    "lot_size": 0.3,
+    "pnl": -0.014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-19T15:30:00",
+    "exit_time": "2024-12-19T15:45:00",
+    "entry_price": 1.04081,
+    "exit_price": 1.04031,
+    "lot_size": 0.29,
+    "pnl": -0.014499999999998401,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-19T15:45:00",
+    "exit_time": "2024-12-19T16:00:00",
+    "entry_price": 1.03992,
+    "exit_price": 1.04042,
+    "lot_size": 0.29,
+    "pnl": -0.014499999999998401,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-20T07:45:00",
+    "exit_time": "2024-12-20T08:00:00",
+    "entry_price": 1.03663,
+    "exit_price": 1.03613,
+    "lot_size": 0.29,
+    "pnl": -0.014499999999998401,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-20T08:00:00",
+    "exit_time": "2024-12-20T08:15:00",
+    "entry_price": 1.035,
+    "exit_price": 1.0354999999999999,
+    "lot_size": 0.29,
+    "pnl": -0.014499999999998401,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-20T08:30:00",
+    "exit_time": "2024-12-20T09:00:00",
+    "entry_price": 1.03703,
+    "exit_price": 1.0380299999999998,
+    "lot_size": 0.28,
+    "pnl": 0.02799999999999692,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-12-20T23:30:00",
+    "exit_time": "2024-12-20T23:45:00",
+    "entry_price": 1.04264,
+    "exit_price": 1.04314,
+    "lot_size": 0.28,
+    "pnl": -0.01399999999999846,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-23T00:15:00",
+    "exit_time": "2024-12-23T01:30:00",
+    "entry_price": 1.0435699999999999,
+    "exit_price": 1.04307,
+    "lot_size": 0.28,
+    "pnl": -0.01399999999999846,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-23T03:00:00",
+    "exit_time": "2024-12-23T03:45:00",
+    "entry_price": 1.04295,
+    "exit_price": 1.04345,
+    "lot_size": 0.28,
+    "pnl": -0.01399999999999846,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-23T03:45:00",
+    "exit_time": "2024-12-23T06:00:00",
+    "entry_price": 1.04361,
+    "exit_price": null,
+    "lot_size": 0.27,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-23T08:30:00",
+    "exit_time": "2024-12-23T09:15:00",
+    "entry_price": 1.04382,
+    "exit_price": null,
+    "lot_size": 0.27,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-23T18:30:00",
+    "exit_time": "2024-12-23T19:00:00",
+    "entry_price": 1.04077,
+    "exit_price": 1.0417699999999999,
+    "lot_size": 0.27,
+    "pnl": 0.02699999999999703,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-12-24T02:00:00",
+    "exit_time": "2024-12-24T04:00:00",
+    "entry_price": 1.0402,
+    "exit_price": 1.0407,
+    "lot_size": 0.27,
+    "pnl": -0.013499999999998515,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-24T04:00:00",
+    "exit_time": "2024-12-24T04:15:00",
+    "entry_price": 1.04078,
+    "exit_price": 1.04028,
+    "lot_size": 0.26,
+    "pnl": -0.012999999999998568,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-24T04:30:00",
+    "exit_time": "2024-12-24T05:45:00",
+    "entry_price": 1.0398,
+    "exit_price": null,
+    "lot_size": 0.26,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-24T10:30:00",
+    "exit_time": "2024-12-24T10:45:00",
+    "entry_price": 1.04017,
+    "exit_price": 1.03967,
+    "lot_size": 0.26,
+    "pnl": -0.012999999999998568,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-24T11:30:00",
+    "exit_time": "2024-12-24T13:00:00",
+    "entry_price": 1.03949,
+    "exit_price": 1.03999,
+    "lot_size": 0.26,
+    "pnl": -0.012999999999998568,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-24T13:00:00",
+    "exit_time": "2024-12-24T13:30:00",
+    "entry_price": 1.04032,
+    "exit_price": 1.03982,
+    "lot_size": 0.26,
+    "pnl": -0.012999999999998568,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-24T14:45:00",
+    "exit_time": "2024-12-24T15:00:00",
+    "entry_price": 1.03913,
+    "exit_price": 1.03963,
+    "lot_size": 0.25,
+    "pnl": -0.012499999999998623,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-24T15:00:00",
+    "exit_time": "2024-12-24T16:15:00",
+    "entry_price": 1.03976,
+    "exit_price": 1.04076,
+    "lot_size": 0.25,
+    "pnl": 0.024999999999997247,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-12-24T17:30:00",
+    "exit_time": "2024-12-24T18:45:00",
+    "entry_price": 1.03929,
+    "exit_price": null,
+    "lot_size": 0.25,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-24T22:45:00",
+    "exit_time": "2024-12-24T23:15:00",
+    "entry_price": 1.03963,
+    "exit_price": 1.03913,
+    "lot_size": 0.25,
+    "pnl": -0.012499999999998623,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-26T02:30:00",
+    "exit_time": "2024-12-26T02:45:00",
+    "entry_price": 1.03949,
+    "exit_price": 1.03999,
+    "lot_size": 0.24,
+    "pnl": -0.011999999999998678,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-26T03:30:00",
+    "exit_time": "2024-12-26T09:15:00",
+    "entry_price": 1.0398,
+    "exit_price": 1.0393000000000001,
+    "lot_size": 0.24,
+    "pnl": -0.011999999999998678,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-26T11:45:00",
+    "exit_time": "2024-12-26T14:15:00",
+    "entry_price": 1.03992,
+    "exit_price": 1.03942,
+    "lot_size": 0.24,
+    "pnl": -0.011999999999998678,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-26T15:00:00",
+    "exit_time": "2024-12-26T15:15:00",
+    "entry_price": 1.04049,
+    "exit_price": 1.03999,
+    "lot_size": 0.24,
+    "pnl": -0.011999999999998678,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-26T16:30:00",
+    "exit_time": "2024-12-26T16:45:00",
+    "entry_price": 1.03958,
+    "exit_price": 1.04008,
+    "lot_size": 0.24,
+    "pnl": -0.011999999999998678,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-26T16:45:00",
+    "exit_time": "2024-12-26T17:00:00",
+    "entry_price": 1.04024,
+    "exit_price": null,
+    "lot_size": 0.23,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-27T02:45:00",
+    "exit_time": "2024-12-27T04:15:00",
+    "entry_price": 1.04181,
+    "exit_price": null,
+    "lot_size": 0.23,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-27T09:45:00",
+    "exit_time": "2024-12-27T10:15:00",
+    "entry_price": 1.04219,
+    "exit_price": 1.04169,
+    "lot_size": 0.23,
+    "pnl": -0.011499999999998735,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-27T17:00:00",
+    "exit_time": "2024-12-27T17:15:00",
+    "entry_price": 1.04175,
+    "exit_price": 1.04225,
+    "lot_size": 0.23,
+    "pnl": -0.011499999999998735,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-27T18:30:00",
+    "exit_time": "2024-12-27T18:45:00",
+    "entry_price": 1.04302,
+    "exit_price": 1.0425200000000001,
+    "lot_size": 0.23,
+    "pnl": -0.011499999999998735,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-27T18:45:00",
+    "exit_time": "2024-12-27T20:00:00",
+    "entry_price": 1.04222,
+    "exit_price": 1.0427199999999999,
+    "lot_size": 0.22,
+    "pnl": -0.010999999999998789,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-27T20:30:00",
+    "exit_time": "2024-12-27T22:00:00",
+    "entry_price": 1.04281,
+    "exit_price": 1.04231,
+    "lot_size": 0.22,
+    "pnl": -0.010999999999998789,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-27T22:15:00",
+    "exit_time": "2024-12-30T00:00:00",
+    "entry_price": 1.04232,
+    "exit_price": 1.0428199999999999,
+    "lot_size": 0.22,
+    "pnl": -0.010999999999998789,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-30T00:00:00",
+    "exit_time": "2024-12-30T02:00:00",
+    "entry_price": 1.04308,
+    "exit_price": 1.04258,
+    "lot_size": 0.22,
+    "pnl": -0.010999999999998789,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-30T03:45:00",
+    "exit_time": "2024-12-30T08:00:00",
+    "entry_price": 1.04253,
+    "exit_price": 1.04303,
+    "lot_size": 0.22,
+    "pnl": -0.010999999999998789,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-30T08:00:00",
+    "exit_time": "2024-12-30T09:30:00",
+    "entry_price": 1.04288,
+    "exit_price": 1.04238,
+    "lot_size": 0.21,
+    "pnl": -0.010499999999998844,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-30T09:30:00",
+    "exit_time": "2024-12-30T10:15:00",
+    "entry_price": 1.04259,
+    "exit_price": null,
+    "lot_size": 0.21,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-30T11:45:00",
+    "exit_time": "2024-12-30T12:00:00",
+    "entry_price": 1.04338,
+    "exit_price": 1.0443799999999999,
+    "lot_size": 0.21,
+    "pnl": 0.020999999999997687,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2024-12-30T15:45:00",
+    "exit_time": "2024-12-30T16:00:00",
+    "entry_price": 1.03879,
+    "exit_price": 1.03929,
+    "lot_size": 0.21,
+    "pnl": -0.010499999999998844,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-30T20:45:00",
+    "exit_time": "2024-12-30T21:00:00",
+    "entry_price": 1.04045,
+    "exit_price": 1.0399500000000002,
+    "lot_size": 0.21,
+    "pnl": -0.010499999999998844,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-31T02:30:00",
+    "exit_time": "2024-12-31T03:00:00",
+    "entry_price": 1.03991,
+    "exit_price": 1.0404099999999998,
+    "lot_size": 0.2,
+    "pnl": -0.009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2024-12-31T06:30:00",
+    "exit_time": "2024-12-31T08:45:00",
+    "entry_price": 1.04066,
+    "exit_price": null,
+    "lot_size": 0.2,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-31T09:30:00",
+    "exit_time": "2024-12-31T10:45:00",
+    "entry_price": 1.04107,
+    "exit_price": null,
+    "lot_size": 0.2,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2024-12-31T14:00:00",
+    "exit_time": "2024-12-31T14:15:00",
+    "entry_price": 1.041,
+    "exit_price": null,
+    "lot_size": 0.2,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-11-24T00:00:00",
+    "exit_time": "2025-11-24T01:15:00",
+    "entry_price": 1.15136,
+    "exit_price": 1.15086,
+    "lot_size": 0.2,
+    "pnl": -0.009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-11-24T16:30:00",
+    "exit_time": "2025-11-24T17:00:00",
+    "entry_price": 1.15289,
+    "exit_price": 1.15189,
+    "lot_size": 0.2,
+    "pnl": 0.019999999999997797,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2025-11-24T21:30:00",
+    "exit_time": "2025-11-24T23:00:00",
+    "entry_price": 1.15253,
+    "exit_price": 1.15203,
+    "lot_size": 0.19,
+    "pnl": -0.009499999999998954,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-11-25T03:00:00",
+    "exit_time": "2025-11-25T05:45:00",
+    "entry_price": 1.15241,
+    "exit_price": 1.15191,
+    "lot_size": 0.19,
+    "pnl": -0.009499999999998954,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-11-25T09:00:00",
+    "exit_time": "2025-11-25T09:45:00",
+    "entry_price": 1.15227,
+    "exit_price": null,
+    "lot_size": 0.19,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-11-25T14:00:00",
+    "exit_time": "2025-11-25T14:15:00",
+    "entry_price": 1.1528100000000001,
+    "exit_price": 1.15331,
+    "lot_size": 0.19,
+    "pnl": -0.009499999999998954,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-11-25T14:15:00",
+    "exit_time": "2025-11-25T14:30:00",
+    "entry_price": 1.15319,
+    "exit_price": 1.1541899999999998,
+    "lot_size": 0.19,
+    "pnl": 0.018999999999997907,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2025-11-25T22:45:00",
+    "exit_time": "2025-11-26T01:00:00",
+    "entry_price": 1.1568,
+    "exit_price": 1.1573,
+    "lot_size": 0.19,
+    "pnl": -0.009499999999998954,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-11-26T03:15:00",
+    "exit_time": "2025-11-26T03:30:00",
+    "entry_price": 1.15728,
+    "exit_price": 1.15828,
+    "lot_size": 0.18,
+    "pnl": 0.017999999999998018,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2025-11-26T09:30:00",
+    "exit_time": "2025-11-26T10:30:00",
+    "entry_price": 1.15817,
+    "exit_price": 1.15717,
+    "lot_size": 0.18,
+    "pnl": 0.017999999999998018,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2025-11-26T15:15:00",
+    "exit_time": "2025-11-26T15:30:00",
+    "entry_price": 1.15811,
+    "exit_price": 1.15761,
+    "lot_size": 0.18,
+    "pnl": -0.008999999999999009,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-11-26T15:30:00",
+    "exit_time": "2025-11-26T15:45:00",
+    "entry_price": 1.1561,
+    "exit_price": 1.1551,
+    "lot_size": 0.18,
+    "pnl": 0.017999999999998018,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2025-11-26T17:00:00",
+    "exit_time": "2025-11-26T17:30:00",
+    "entry_price": 1.15906,
+    "exit_price": 1.15856,
+    "lot_size": 0.18,
+    "pnl": -0.008999999999999009,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-11-27T06:00:00",
+    "exit_time": "2025-11-27T08:15:00",
+    "entry_price": 1.16018,
+    "exit_price": null,
+    "lot_size": 0.18,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-11-27T15:00:00",
+    "exit_time": "2025-11-27T15:45:00",
+    "entry_price": 1.15885,
+    "exit_price": null,
+    "lot_size": 0.17,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-11-27T20:45:00",
+    "exit_time": "2025-11-27T23:30:00",
+    "entry_price": 1.15919,
+    "exit_price": 1.1596899999999999,
+    "lot_size": 0.17,
+    "pnl": -0.008499999999999064,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-11-28T02:45:00",
+    "exit_time": "2025-11-28T03:30:00",
+    "entry_price": 1.1594,
+    "exit_price": null,
+    "lot_size": 0.17,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-11-28T15:45:00",
+    "exit_time": "2025-11-28T16:00:00",
+    "entry_price": 1.15748,
+    "exit_price": null,
+    "lot_size": 0.17,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-11-29T00:00:00",
+    "exit_time": "2025-12-01T01:00:00",
+    "entry_price": 1.15963,
+    "exit_price": 1.1601299999999999,
+    "lot_size": 0.17,
+    "pnl": -0.008499999999999064,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-01T01:00:00",
+    "exit_time": "2025-12-01T01:15:00",
+    "entry_price": 1.1607,
+    "exit_price": 1.1602000000000001,
+    "lot_size": 0.17,
+    "pnl": -0.008499999999999064,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-01T04:30:00",
+    "exit_time": "2025-12-01T06:30:00",
+    "entry_price": 1.15961,
+    "exit_price": 1.16011,
+    "lot_size": 0.17,
+    "pnl": -0.008499999999999064,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-01T09:15:00",
+    "exit_time": "2025-12-01T10:00:00",
+    "entry_price": 1.16083,
+    "exit_price": null,
+    "lot_size": 0.16,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-01T17:30:00",
+    "exit_time": "2025-12-01T18:00:00",
+    "entry_price": 1.16268,
+    "exit_price": 1.1631799999999999,
+    "lot_size": 0.16,
+    "pnl": -0.007999999999999119,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-02T04:15:00",
+    "exit_time": "2025-12-02T08:15:00",
+    "entry_price": 1.16102,
+    "exit_price": 1.16052,
+    "lot_size": 0.16,
+    "pnl": -0.007999999999999119,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-02T09:00:00",
+    "exit_time": "2025-12-02T10:45:00",
+    "entry_price": 1.1614200000000001,
+    "exit_price": 1.1609200000000002,
+    "lot_size": 0.16,
+    "pnl": -0.007999999999999119,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-02T11:30:00",
+    "exit_time": "2025-12-02T11:45:00",
+    "entry_price": 1.16072,
+    "exit_price": 1.16122,
+    "lot_size": 0.16,
+    "pnl": -0.007999999999999119,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-02T13:45:00",
+    "exit_time": "2025-12-02T15:00:00",
+    "entry_price": 1.16117,
+    "exit_price": null,
+    "lot_size": 0.16,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-02T17:00:00",
+    "exit_time": "2025-12-02T17:15:00",
+    "entry_price": 1.16051,
+    "exit_price": 1.15951,
+    "lot_size": 0.16,
+    "pnl": 0.015999999999998238,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2025-12-02T20:15:00",
+    "exit_time": "2025-12-02T21:45:00",
+    "entry_price": 1.16102,
+    "exit_price": 1.1620199999999998,
+    "lot_size": 0.15,
+    "pnl": 0.014999999999998348,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2025-12-03T17:30:00",
+    "exit_time": "2025-12-03T17:45:00",
+    "entry_price": 1.16566,
+    "exit_price": 1.1661599999999999,
+    "lot_size": 0.15,
+    "pnl": -0.007499999999999174,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-03T18:00:00",
+    "exit_time": "2025-12-03T19:00:00",
+    "entry_price": 1.16629,
+    "exit_price": 1.16579,
+    "lot_size": 0.15,
+    "pnl": -0.007499999999999174,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-03T23:00:00",
+    "exit_time": "2025-12-03T23:45:00",
+    "entry_price": 1.16647,
+    "exit_price": 1.1669699999999998,
+    "lot_size": 0.15,
+    "pnl": -0.007499999999999174,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-03T23:45:00",
+    "exit_time": "2025-12-04T01:45:00",
+    "entry_price": 1.16712,
+    "exit_price": 1.16662,
+    "lot_size": 0.15,
+    "pnl": -0.007499999999999174,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-04T01:45:00",
+    "exit_time": "2025-12-04T02:30:00",
+    "entry_price": 1.16665,
+    "exit_price": null,
+    "lot_size": 0.15,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-04T09:45:00",
+    "exit_time": "2025-12-04T10:15:00",
+    "entry_price": 1.16655,
+    "exit_price": 1.1675499999999999,
+    "lot_size": 0.15,
+    "pnl": 0.014999999999998348,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2025-12-04T15:00:00",
+    "exit_time": "2025-12-04T15:30:00",
+    "entry_price": 1.16646,
+    "exit_price": 1.1654600000000002,
+    "lot_size": 0.15,
+    "pnl": 0.014999999999998348,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2025-12-04T17:30:00",
+    "exit_time": "2025-12-04T17:45:00",
+    "entry_price": 1.1674,
+    "exit_price": 1.1669,
+    "lot_size": 0.14,
+    "pnl": -0.00699999999999923,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-04T18:00:00",
+    "exit_time": "2025-12-04T18:15:00",
+    "entry_price": 1.16651,
+    "exit_price": null,
+    "lot_size": 0.14,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-05T02:45:00",
+    "exit_time": "2025-12-05T07:45:00",
+    "entry_price": 1.16499,
+    "exit_price": null,
+    "lot_size": 0.14,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-05T11:00:00",
+    "exit_time": "2025-12-05T13:15:00",
+    "entry_price": 1.16524,
+    "exit_price": null,
+    "lot_size": 0.14,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-05T16:00:00",
+    "exit_time": "2025-12-05T16:30:00",
+    "entry_price": 1.16528,
+    "exit_price": 1.1647800000000001,
+    "lot_size": 0.14,
+    "pnl": -0.00699999999999923,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-05T17:45:00",
+    "exit_time": "2025-12-05T18:00:00",
+    "entry_price": 1.1648100000000001,
+    "exit_price": 1.1638100000000002,
+    "lot_size": 0.14,
+    "pnl": 0.01399999999999846,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2025-12-08T00:45:00",
+    "exit_time": "2025-12-08T01:00:00",
+    "entry_price": 1.16459,
+    "exit_price": 1.16409,
+    "lot_size": 0.14,
+    "pnl": -0.00699999999999923,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-08T01:00:00",
+    "exit_time": "2025-12-08T02:30:00",
+    "entry_price": 1.1642000000000001,
+    "exit_price": 1.1647,
+    "lot_size": 0.14,
+    "pnl": -0.00699999999999923,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-08T10:15:00",
+    "exit_time": "2025-12-08T10:45:00",
+    "entry_price": 1.16503,
+    "exit_price": 1.16553,
+    "lot_size": 0.13,
+    "pnl": -0.006499999999999284,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-08T15:00:00",
+    "exit_time": "2025-12-08T15:30:00",
+    "entry_price": 1.16552,
+    "exit_price": 1.16502,
+    "lot_size": 0.13,
+    "pnl": -0.006499999999999284,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-08T20:30:00",
+    "exit_time": "2025-12-08T23:15:00",
+    "entry_price": 1.16407,
+    "exit_price": 1.16357,
+    "lot_size": 0.13,
+    "pnl": -0.006499999999999284,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-08T23:45:00",
+    "exit_time": "2025-12-09T02:00:00",
+    "entry_price": 1.16367,
+    "exit_price": 1.16417,
+    "lot_size": 0.13,
+    "pnl": -0.006499999999999284,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-09T08:45:00",
+    "exit_time": "2025-12-09T09:15:00",
+    "entry_price": 1.16439,
+    "exit_price": null,
+    "lot_size": 0.13,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-09T10:45:00",
+    "exit_time": "2025-12-09T11:30:00",
+    "entry_price": 1.16448,
+    "exit_price": null,
+    "lot_size": 0.13,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-09T13:00:00",
+    "exit_time": "2025-12-09T13:15:00",
+    "entry_price": 1.16388,
+    "exit_price": 1.16438,
+    "lot_size": 0.13,
+    "pnl": -0.006499999999999284,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-09T18:45:00",
+    "exit_time": "2025-12-09T19:15:00",
+    "entry_price": 1.16382,
+    "exit_price": 1.1633200000000001,
+    "lot_size": 0.13,
+    "pnl": -0.006499999999999284,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-09T19:15:00",
+    "exit_time": "2025-12-09T20:00:00",
+    "entry_price": 1.16281,
+    "exit_price": null,
+    "lot_size": 0.12,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-10T06:15:00",
+    "exit_time": "2025-12-10T08:00:00",
+    "entry_price": 1.1626400000000001,
+    "exit_price": null,
+    "lot_size": 0.12,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-10T12:15:00",
+    "exit_time": "2025-12-10T12:30:00",
+    "entry_price": 1.16366,
+    "exit_price": null,
+    "lot_size": 0.12,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-10T14:30:00",
+    "exit_time": "2025-12-10T15:00:00",
+    "entry_price": 1.16405,
+    "exit_price": 1.16355,
+    "lot_size": 0.12,
+    "pnl": -0.005999999999999339,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-10T15:00:00",
+    "exit_time": "2025-12-10T15:45:00",
+    "entry_price": 1.16334,
+    "exit_price": 1.16384,
+    "lot_size": 0.12,
+    "pnl": -0.005999999999999339,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-10T15:45:00",
+    "exit_time": "2025-12-10T16:15:00",
+    "entry_price": 1.16402,
+    "exit_price": 1.16352,
+    "lot_size": 0.12,
+    "pnl": -0.005999999999999339,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-11T05:15:00",
+    "exit_time": "2025-12-11T07:45:00",
+    "entry_price": 1.16915,
+    "exit_price": null,
+    "lot_size": 0.12,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-11T09:15:00",
+    "exit_time": "2025-12-11T09:30:00",
+    "entry_price": 1.16955,
+    "exit_price": null,
+    "lot_size": 0.12,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-11T21:45:00",
+    "exit_time": "2025-12-12T03:15:00",
+    "entry_price": 1.17412,
+    "exit_price": 1.17462,
+    "lot_size": 0.12,
+    "pnl": -0.005999999999999339,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-12T03:15:00",
+    "exit_time": "2025-12-12T03:30:00",
+    "entry_price": 1.17456,
+    "exit_price": 1.17406,
+    "lot_size": 0.12,
+    "pnl": -0.005999999999999339,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-12T03:30:00",
+    "exit_time": "2025-12-12T08:00:00",
+    "entry_price": 1.17367,
+    "exit_price": 1.17417,
+    "lot_size": 0.11,
+    "pnl": -0.005499999999999394,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-12T08:00:00",
+    "exit_time": "2025-12-12T08:30:00",
+    "entry_price": 1.17409,
+    "exit_price": 1.1735900000000001,
+    "lot_size": 0.11,
+    "pnl": -0.005499999999999394,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-12T10:45:00",
+    "exit_time": "2025-12-12T11:45:00",
+    "entry_price": 1.17283,
+    "exit_price": 1.17333,
+    "lot_size": 0.11,
+    "pnl": -0.005499999999999394,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-12T15:30:00",
+    "exit_time": "2025-12-12T15:45:00",
+    "entry_price": 1.1733,
+    "exit_price": 1.1728,
+    "lot_size": 0.11,
+    "pnl": -0.005499999999999394,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-12T16:00:00",
+    "exit_time": "2025-12-12T16:15:00",
+    "entry_price": 1.17262,
+    "exit_price": 1.17312,
+    "lot_size": 0.11,
+    "pnl": -0.005499999999999394,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-12T16:15:00",
+    "exit_time": "2025-12-12T16:30:00",
+    "entry_price": 1.17322,
+    "exit_price": null,
+    "lot_size": 0.11,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-13T00:00:00",
+    "exit_time": "2025-12-15T02:00:00",
+    "entry_price": 1.1739600000000001,
+    "exit_price": null,
+    "lot_size": 0.11,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-15T03:45:00",
+    "exit_time": "2025-12-15T05:30:00",
+    "entry_price": 1.17414,
+    "exit_price": 1.17364,
+    "lot_size": 0.11,
+    "pnl": -0.005499999999999394,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-15T05:45:00",
+    "exit_time": "2025-12-15T09:45:00",
+    "entry_price": 1.17343,
+    "exit_price": null,
+    "lot_size": 0.11,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-15T11:00:00",
+    "exit_time": "2025-12-15T13:45:00",
+    "entry_price": 1.17419,
+    "exit_price": null,
+    "lot_size": 0.11,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-15T19:15:00",
+    "exit_time": "2025-12-15T20:15:00",
+    "entry_price": 1.17497,
+    "exit_price": null,
+    "lot_size": 0.1,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-15T22:30:00",
+    "exit_time": "2025-12-16T02:00:00",
+    "entry_price": 1.17516,
+    "exit_price": null,
+    "lot_size": 0.1,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-16T03:00:00",
+    "exit_time": "2025-12-16T03:30:00",
+    "entry_price": 1.17488,
+    "exit_price": 1.1753799999999999,
+    "lot_size": 0.1,
+    "pnl": -0.004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-16T04:00:00",
+    "exit_time": "2025-12-16T08:00:00",
+    "entry_price": 1.1754,
+    "exit_price": 1.1749,
+    "lot_size": 0.1,
+    "pnl": -0.004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-16T10:00:00",
+    "exit_time": "2025-12-16T10:30:00",
+    "entry_price": 1.17577,
+    "exit_price": 1.17527,
+    "lot_size": 0.1,
+    "pnl": -0.004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-16T18:30:00",
+    "exit_time": "2025-12-16T19:00:00",
+    "entry_price": 1.1767400000000001,
+    "exit_price": 1.17724,
+    "lot_size": 0.1,
+    "pnl": -0.004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-16T19:15:00",
+    "exit_time": "2025-12-16T19:45:00",
+    "entry_price": 1.17736,
+    "exit_price": 1.17686,
+    "lot_size": 0.1,
+    "pnl": -0.004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-16T19:45:00",
+    "exit_time": "2025-12-16T20:00:00",
+    "entry_price": 1.17639,
+    "exit_price": 1.1753900000000002,
+    "lot_size": 0.1,
+    "pnl": 0.009999999999998899,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2025-12-17T12:45:00",
+    "exit_time": "2025-12-17T13:00:00",
+    "entry_price": 1.17253,
+    "exit_price": 1.1720300000000001,
+    "lot_size": 0.1,
+    "pnl": -0.004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-17T13:15:00",
+    "exit_time": "2025-12-17T13:30:00",
+    "entry_price": 1.17154,
+    "exit_price": null,
+    "lot_size": 0.1,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-17T14:45:00",
+    "exit_time": "2025-12-17T15:00:00",
+    "entry_price": 1.17268,
+    "exit_price": 1.17218,
+    "lot_size": 0.1,
+    "pnl": -0.004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-17T22:15:00",
+    "exit_time": "2025-12-18T07:45:00",
+    "entry_price": 1.17415,
+    "exit_price": 1.17465,
+    "lot_size": 0.09,
+    "pnl": -0.004499999999999504,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-18T09:45:00",
+    "exit_time": "2025-12-18T11:00:00",
+    "entry_price": 1.17337,
+    "exit_price": null,
+    "lot_size": 0.09,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-18T15:30:00",
+    "exit_time": "2025-12-18T15:45:00",
+    "entry_price": 1.17393,
+    "exit_price": 1.1749299999999998,
+    "lot_size": 0.09,
+    "pnl": 0.008999999999999009,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2025-12-18T17:45:00",
+    "exit_time": "2025-12-18T18:00:00",
+    "entry_price": 1.17271,
+    "exit_price": 1.1732099999999999,
+    "lot_size": 0.09,
+    "pnl": -0.004499999999999504,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-18T18:00:00",
+    "exit_time": "2025-12-18T18:15:00",
+    "entry_price": 1.17416,
+    "exit_price": 1.1736600000000001,
+    "lot_size": 0.09,
+    "pnl": -0.004499999999999504,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-18T19:00:00",
+    "exit_time": "2025-12-18T20:00:00",
+    "entry_price": 1.17199,
+    "exit_price": 1.17249,
+    "lot_size": 0.09,
+    "pnl": -0.004499999999999504,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-19T01:15:00",
+    "exit_time": "2025-12-19T05:15:00",
+    "entry_price": 1.17253,
+    "exit_price": 1.1720300000000001,
+    "lot_size": 0.09,
+    "pnl": -0.004499999999999504,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-19T15:45:00",
+    "exit_time": "2025-12-19T16:00:00",
+    "entry_price": 1.17193,
+    "exit_price": 1.1729299999999998,
+    "lot_size": 0.09,
+    "pnl": 0.008999999999999009,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2025-12-19T17:45:00",
+    "exit_time": "2025-12-19T18:00:00",
+    "entry_price": 1.17096,
+    "exit_price": 1.17146,
+    "lot_size": 0.09,
+    "pnl": -0.004499999999999504,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-19T18:45:00",
+    "exit_time": "2025-12-19T19:00:00",
+    "entry_price": 1.17209,
+    "exit_price": 1.1715900000000001,
+    "lot_size": 0.09,
+    "pnl": -0.004499999999999504,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-19T19:00:00",
+    "exit_time": "2025-12-19T19:30:00",
+    "entry_price": 1.17144,
+    "exit_price": 1.17194,
+    "lot_size": 0.09,
+    "pnl": -0.004499999999999504,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-19T19:45:00",
+    "exit_time": "2025-12-19T20:00:00",
+    "entry_price": 1.17193,
+    "exit_price": null,
+    "lot_size": 0.09,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-19T22:45:00",
+    "exit_time": "2025-12-22T00:00:00",
+    "entry_price": 1.17098,
+    "exit_price": 1.1714799999999999,
+    "lot_size": 0.09,
+    "pnl": -0.004499999999999504,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-22T03:00:00",
+    "exit_time": "2025-12-22T09:30:00",
+    "entry_price": 1.17169,
+    "exit_price": null,
+    "lot_size": 0.08,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-22T20:30:00",
+    "exit_time": "2025-12-22T21:45:00",
+    "entry_price": 1.17511,
+    "exit_price": 1.17561,
+    "lot_size": 0.08,
+    "pnl": -0.0039999999999995595,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-22T21:45:00",
+    "exit_time": "2025-12-23T00:00:00",
+    "entry_price": 1.17554,
+    "exit_price": null,
+    "lot_size": 0.08,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-23T08:45:00",
+    "exit_time": "2025-12-23T09:15:00",
+    "entry_price": 1.17712,
+    "exit_price": 1.17762,
+    "lot_size": 0.08,
+    "pnl": -0.0039999999999995595,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-23T09:45:00",
+    "exit_time": "2025-12-23T10:45:00",
+    "entry_price": 1.17787,
+    "exit_price": null,
+    "lot_size": 0.08,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-23T15:30:00",
+    "exit_time": "2025-12-23T15:45:00",
+    "entry_price": 1.1786,
+    "exit_price": 1.1776000000000002,
+    "lot_size": 0.08,
+    "pnl": 0.007999999999999119,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2025-12-23T20:45:00",
+    "exit_time": "2025-12-23T21:00:00",
+    "entry_price": 1.17829,
+    "exit_price": null,
+    "lot_size": 0.08,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-24T05:15:00",
+    "exit_time": "2025-12-24T07:30:00",
+    "entry_price": 1.17905,
+    "exit_price": 1.1795499999999999,
+    "lot_size": 0.08,
+    "pnl": -0.0039999999999995595,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-24T07:30:00",
+    "exit_time": "2025-12-24T09:15:00",
+    "entry_price": 1.17988,
+    "exit_price": 1.17938,
+    "lot_size": 0.08,
+    "pnl": -0.0039999999999995595,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-24T09:30:00",
+    "exit_time": "2025-12-24T10:00:00",
+    "entry_price": 1.17886,
+    "exit_price": null,
+    "lot_size": 0.08,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-24T11:00:00",
+    "exit_time": "2025-12-24T12:45:00",
+    "entry_price": 1.17987,
+    "exit_price": 1.17937,
+    "lot_size": 0.08,
+    "pnl": -0.0039999999999995595,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-24T13:30:00",
+    "exit_time": "2025-12-24T14:45:00",
+    "entry_price": 1.17921,
+    "exit_price": null,
+    "lot_size": 0.08,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-24T21:45:00",
+    "exit_time": "2025-12-26T02:15:00",
+    "entry_price": 1.17817,
+    "exit_price": null,
+    "lot_size": 0.08,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-26T06:00:00",
+    "exit_time": "2025-12-26T06:30:00",
+    "entry_price": 1.1782,
+    "exit_price": 1.1786999999999999,
+    "lot_size": 0.08,
+    "pnl": -0.0039999999999995595,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-26T13:15:00",
+    "exit_time": "2025-12-26T14:30:00",
+    "entry_price": 1.17778,
+    "exit_price": 1.17728,
+    "lot_size": 0.07,
+    "pnl": -0.003499999999999615,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-26T18:00:00",
+    "exit_time": "2025-12-26T18:15:00",
+    "entry_price": 1.17722,
+    "exit_price": null,
+    "lot_size": 0.07,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-26T21:45:00",
+    "exit_time": "2025-12-26T23:15:00",
+    "entry_price": 1.17766,
+    "exit_price": 1.17716,
+    "lot_size": 0.07,
+    "pnl": -0.003499999999999615,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-26T23:30:00",
+    "exit_time": "2025-12-29T00:45:00",
+    "entry_price": 1.17688,
+    "exit_price": 1.1773799999999999,
+    "lot_size": 0.07,
+    "pnl": -0.003499999999999615,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-29T01:15:00",
+    "exit_time": "2025-12-29T02:30:00",
+    "entry_price": 1.17754,
+    "exit_price": null,
+    "lot_size": 0.07,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-29T05:00:00",
+    "exit_time": "2025-12-29T06:30:00",
+    "entry_price": 1.1775,
+    "exit_price": null,
+    "lot_size": 0.07,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-29T09:30:00",
+    "exit_time": "2025-12-29T10:45:00",
+    "entry_price": 1.17756,
+    "exit_price": 1.1785599999999998,
+    "lot_size": 0.07,
+    "pnl": 0.00699999999999923,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2025-12-29T12:45:00",
+    "exit_time": "2025-12-29T13:00:00",
+    "entry_price": 1.17658,
+    "exit_price": null,
+    "lot_size": 0.07,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-29T16:00:00",
+    "exit_time": "2025-12-29T16:15:00",
+    "entry_price": 1.17725,
+    "exit_price": null,
+    "lot_size": 0.07,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-29T18:00:00",
+    "exit_time": "2025-12-29T18:15:00",
+    "entry_price": 1.17644,
+    "exit_price": null,
+    "lot_size": 0.07,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-29T21:45:00",
+    "exit_time": "2025-12-29T23:00:00",
+    "entry_price": 1.1767400000000001,
+    "exit_price": null,
+    "lot_size": 0.07,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-30T09:15:00",
+    "exit_time": "2025-12-30T11:30:00",
+    "entry_price": 1.17708,
+    "exit_price": 1.1775799999999998,
+    "lot_size": 0.07,
+    "pnl": -0.003499999999999615,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-30T11:30:00",
+    "exit_time": "2025-12-30T11:45:00",
+    "entry_price": 1.17758,
+    "exit_price": 1.1770800000000001,
+    "lot_size": 0.07,
+    "pnl": -0.003499999999999615,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-30T11:45:00",
+    "exit_time": "2025-12-30T12:00:00",
+    "entry_price": 1.17688,
+    "exit_price": 1.1773799999999999,
+    "lot_size": 0.07,
+    "pnl": -0.003499999999999615,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-30T12:00:00",
+    "exit_time": "2025-12-30T13:30:00",
+    "entry_price": 1.17749,
+    "exit_price": 1.17699,
+    "lot_size": 0.07,
+    "pnl": -0.003499999999999615,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-30T13:30:00",
+    "exit_time": "2025-12-30T14:30:00",
+    "entry_price": 1.17689,
+    "exit_price": null,
+    "lot_size": 0.07,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-30T18:45:00",
+    "exit_time": "2025-12-30T19:15:00",
+    "entry_price": 1.17649,
+    "exit_price": 1.17599,
+    "lot_size": 0.06,
+    "pnl": -0.0029999999999996696,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-31T12:30:00",
+    "exit_time": "2025-12-31T13:30:00",
+    "entry_price": 1.17371,
+    "exit_price": null,
+    "lot_size": 0.06,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-31T16:15:00",
+    "exit_time": "2025-12-31T16:45:00",
+    "entry_price": 1.17359,
+    "exit_price": null,
+    "lot_size": 0.06,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2025-12-31T18:15:00",
+    "exit_time": "2025-12-31T18:30:00",
+    "entry_price": 1.17417,
+    "exit_price": 1.17367,
+    "lot_size": 0.06,
+    "pnl": -0.0029999999999996696,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-31T18:30:00",
+    "exit_time": "2025-12-31T19:00:00",
+    "entry_price": 1.17311,
+    "exit_price": 1.17361,
+    "lot_size": 0.06,
+    "pnl": -0.0029999999999996696,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2025-12-31T21:00:00",
+    "exit_time": "2025-12-31T22:15:00",
+    "entry_price": 1.17411,
+    "exit_price": null,
+    "lot_size": 0.06,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-02T07:00:00",
+    "exit_time": "2026-01-02T08:00:00",
+    "entry_price": 1.17557,
+    "exit_price": null,
+    "lot_size": 0.06,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-02T16:45:00",
+    "exit_time": "2026-01-02T17:00:00",
+    "entry_price": 1.17286,
+    "exit_price": null,
+    "lot_size": 0.06,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-02T20:00:00",
+    "exit_time": "2026-01-02T20:30:00",
+    "entry_price": 1.17252,
+    "exit_price": null,
+    "lot_size": 0.06,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-05T08:45:00",
+    "exit_time": "2026-01-05T09:00:00",
+    "entry_price": 1.16911,
+    "exit_price": 1.1686100000000001,
+    "lot_size": 0.06,
+    "pnl": -0.0029999999999996696,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-05T09:00:00",
+    "exit_time": "2026-01-05T09:15:00",
+    "entry_price": 1.16858,
+    "exit_price": 1.16908,
+    "lot_size": 0.06,
+    "pnl": -0.0029999999999996696,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-05T09:15:00",
+    "exit_time": "2026-01-05T09:30:00",
+    "entry_price": 1.16902,
+    "exit_price": 1.16852,
+    "lot_size": 0.06,
+    "pnl": -0.0029999999999996696,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-05T09:45:00",
+    "exit_time": "2026-01-05T10:15:00",
+    "entry_price": 1.16863,
+    "exit_price": 1.16913,
+    "lot_size": 0.06,
+    "pnl": -0.0029999999999996696,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-05T10:15:00",
+    "exit_time": "2026-01-05T10:30:00",
+    "entry_price": 1.16944,
+    "exit_price": 1.16894,
+    "lot_size": 0.06,
+    "pnl": -0.0029999999999996696,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-05T10:30:00",
+    "exit_time": "2026-01-05T11:30:00",
+    "entry_price": 1.16832,
+    "exit_price": null,
+    "lot_size": 0.06,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-05T12:45:00",
+    "exit_time": "2026-01-05T13:00:00",
+    "entry_price": 1.16899,
+    "exit_price": 1.16849,
+    "lot_size": 0.06,
+    "pnl": -0.0029999999999996696,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-05T13:00:00",
+    "exit_time": "2026-01-05T13:15:00",
+    "entry_price": 1.16809,
+    "exit_price": 1.16859,
+    "lot_size": 0.06,
+    "pnl": -0.0029999999999996696,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-05T16:45:00",
+    "exit_time": "2026-01-05T17:00:00",
+    "entry_price": 1.16853,
+    "exit_price": 1.16953,
+    "lot_size": 0.06,
+    "pnl": 0.005999999999999339,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-01-06T01:15:00",
+    "exit_time": "2026-01-06T02:15:00",
+    "entry_price": 1.17177,
+    "exit_price": null,
+    "lot_size": 0.06,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-06T03:45:00",
+    "exit_time": "2026-01-06T04:45:00",
+    "entry_price": 1.17254,
+    "exit_price": 1.1735399999999998,
+    "lot_size": 0.05,
+    "pnl": 0.004999999999999449,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-01-06T10:15:00",
+    "exit_time": "2026-01-06T11:00:00",
+    "entry_price": 1.17279,
+    "exit_price": 1.17179,
+    "lot_size": 0.05,
+    "pnl": 0.004999999999999449,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-01-07T02:45:00",
+    "exit_time": "2026-01-07T03:30:00",
+    "entry_price": 1.1691799999999999,
+    "exit_price": null,
+    "lot_size": 0.05,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-07T07:00:00",
+    "exit_time": "2026-01-07T08:45:00",
+    "entry_price": 1.16921,
+    "exit_price": 1.16971,
+    "lot_size": 0.05,
+    "pnl": -0.0024999999999997247,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-07T08:45:00",
+    "exit_time": "2026-01-07T09:15:00",
+    "entry_price": 1.16976,
+    "exit_price": 1.16926,
+    "lot_size": 0.05,
+    "pnl": -0.0024999999999997247,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-07T09:15:00",
+    "exit_time": "2026-01-07T09:45:00",
+    "entry_price": 1.1691,
+    "exit_price": 1.1681000000000001,
+    "lot_size": 0.05,
+    "pnl": 0.004999999999999449,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-01-07T12:15:00",
+    "exit_time": "2026-01-07T13:00:00",
+    "entry_price": 1.16919,
+    "exit_price": 1.16869,
+    "lot_size": 0.05,
+    "pnl": -0.0024999999999997247,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-07T13:30:00",
+    "exit_time": "2026-01-07T14:00:00",
+    "entry_price": 1.16861,
+    "exit_price": 1.1691099999999999,
+    "lot_size": 0.05,
+    "pnl": -0.0024999999999997247,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-07T14:00:00",
+    "exit_time": "2026-01-07T15:00:00",
+    "entry_price": 1.16832,
+    "exit_price": 1.16882,
+    "lot_size": 0.05,
+    "pnl": -0.0024999999999997247,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-07T15:30:00",
+    "exit_time": "2026-01-07T16:45:00",
+    "entry_price": 1.1691799999999999,
+    "exit_price": null,
+    "lot_size": 0.05,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-07T18:00:00",
+    "exit_time": "2026-01-07T18:15:00",
+    "entry_price": 1.16828,
+    "exit_price": 1.16878,
+    "lot_size": 0.05,
+    "pnl": -0.0024999999999997247,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-07T19:30:00",
+    "exit_time": "2026-01-07T20:45:00",
+    "entry_price": 1.16904,
+    "exit_price": 1.1685400000000001,
+    "lot_size": 0.05,
+    "pnl": -0.0024999999999997247,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-08T04:45:00",
+    "exit_time": "2026-01-08T08:15:00",
+    "entry_price": 1.16803,
+    "exit_price": 1.16753,
+    "lot_size": 0.05,
+    "pnl": -0.0024999999999997247,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-08T10:00:00",
+    "exit_time": "2026-01-08T11:00:00",
+    "entry_price": 1.16765,
+    "exit_price": null,
+    "lot_size": 0.05,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-08T12:30:00",
+    "exit_time": "2026-01-08T14:00:00",
+    "entry_price": 1.1678600000000001,
+    "exit_price": 1.1673600000000002,
+    "lot_size": 0.05,
+    "pnl": -0.0024999999999997247,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-08T14:00:00",
+    "exit_time": "2026-01-08T15:15:00",
+    "entry_price": 1.16724,
+    "exit_price": 1.16774,
+    "lot_size": 0.05,
+    "pnl": -0.0024999999999997247,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-08T23:30:00",
+    "exit_time": "2026-01-09T02:15:00",
+    "entry_price": 1.16598,
+    "exit_price": 1.16548,
+    "lot_size": 0.05,
+    "pnl": -0.0024999999999997247,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-09T02:45:00",
+    "exit_time": "2026-01-09T04:00:00",
+    "entry_price": 1.16537,
+    "exit_price": null,
+    "lot_size": 0.05,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-09T05:00:00",
+    "exit_time": "2026-01-09T06:15:00",
+    "entry_price": 1.16578,
+    "exit_price": 1.16528,
+    "lot_size": 0.05,
+    "pnl": -0.0024999999999997247,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-09T07:15:00",
+    "exit_time": "2026-01-09T09:00:00",
+    "entry_price": 1.16531,
+    "exit_price": null,
+    "lot_size": 0.05,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-09T15:30:00",
+    "exit_time": "2026-01-09T15:45:00",
+    "entry_price": 1.16565,
+    "exit_price": 1.1651500000000001,
+    "lot_size": 0.05,
+    "pnl": -0.0024999999999997247,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-09T16:15:00",
+    "exit_time": "2026-01-09T16:30:00",
+    "entry_price": 1.16381,
+    "exit_price": 1.16431,
+    "lot_size": 0.05,
+    "pnl": -0.0024999999999997247,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-09T21:15:00",
+    "exit_time": "2026-01-09T23:30:00",
+    "entry_price": 1.16377,
+    "exit_price": 1.16327,
+    "lot_size": 0.05,
+    "pnl": -0.0024999999999997247,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-12T02:15:00",
+    "exit_time": "2026-01-12T02:30:00",
+    "entry_price": 1.16428,
+    "exit_price": 1.1652799999999999,
+    "lot_size": 0.04,
+    "pnl": 0.0039999999999995595,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-01-12T16:15:00",
+    "exit_time": "2026-01-12T17:30:00",
+    "entry_price": 1.16755,
+    "exit_price": 1.16805,
+    "lot_size": 0.04,
+    "pnl": -0.0019999999999997797,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-13T06:45:00",
+    "exit_time": "2026-01-13T08:00:00",
+    "entry_price": 1.16655,
+    "exit_price": 1.16605,
+    "lot_size": 0.04,
+    "pnl": -0.0019999999999997797,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-13T08:00:00",
+    "exit_time": "2026-01-13T09:30:00",
+    "entry_price": 1.16574,
+    "exit_price": 1.16624,
+    "lot_size": 0.04,
+    "pnl": -0.0019999999999997797,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-13T09:45:00",
+    "exit_time": "2026-01-13T10:30:00",
+    "entry_price": 1.16643,
+    "exit_price": 1.1659300000000001,
+    "lot_size": 0.04,
+    "pnl": -0.0019999999999997797,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-13T14:30:00",
+    "exit_time": "2026-01-13T14:45:00",
+    "entry_price": 1.16608,
+    "exit_price": null,
+    "lot_size": 0.04,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-13T16:00:00",
+    "exit_time": "2026-01-13T16:30:00",
+    "entry_price": 1.16678,
+    "exit_price": 1.16628,
+    "lot_size": 0.04,
+    "pnl": -0.0019999999999997797,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-13T16:45:00",
+    "exit_time": "2026-01-13T17:00:00",
+    "entry_price": 1.16636,
+    "exit_price": null,
+    "lot_size": 0.04,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-14T05:00:00",
+    "exit_time": "2026-01-14T11:45:00",
+    "entry_price": 1.16452,
+    "exit_price": null,
+    "lot_size": 0.04,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-14T13:45:00",
+    "exit_time": "2026-01-14T14:00:00",
+    "entry_price": 1.16469,
+    "exit_price": 1.16519,
+    "lot_size": 0.04,
+    "pnl": -0.0019999999999997797,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-14T14:45:00",
+    "exit_time": "2026-01-14T15:00:00",
+    "entry_price": 1.16599,
+    "exit_price": 1.1654900000000001,
+    "lot_size": 0.04,
+    "pnl": -0.0019999999999997797,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-14T19:30:00",
+    "exit_time": "2026-01-14T20:30:00",
+    "entry_price": 1.16466,
+    "exit_price": null,
+    "lot_size": 0.04,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-15T00:00:00",
+    "exit_time": "2026-01-15T02:30:00",
+    "entry_price": 1.16455,
+    "exit_price": 1.16405,
+    "lot_size": 0.04,
+    "pnl": -0.0019999999999997797,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-15T11:45:00",
+    "exit_time": "2026-01-15T13:45:00",
+    "entry_price": 1.16358,
+    "exit_price": 1.1630800000000001,
+    "lot_size": 0.04,
+    "pnl": -0.0019999999999997797,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-15T13:45:00",
+    "exit_time": "2026-01-15T14:45:00",
+    "entry_price": 1.16308,
+    "exit_price": 1.16208,
+    "lot_size": 0.04,
+    "pnl": 0.0039999999999995595,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-01-15T20:30:00",
+    "exit_time": "2026-01-15T22:15:00",
+    "entry_price": 1.16145,
+    "exit_price": 1.1609500000000001,
+    "lot_size": 0.04,
+    "pnl": -0.0019999999999997797,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-15T22:15:00",
+    "exit_time": "2026-01-16T04:30:00",
+    "entry_price": 1.1607,
+    "exit_price": 1.1612,
+    "lot_size": 0.04,
+    "pnl": -0.0019999999999997797,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-16T04:30:00",
+    "exit_time": "2026-01-16T04:45:00",
+    "entry_price": 1.16141,
+    "exit_price": 1.16091,
+    "lot_size": 0.04,
+    "pnl": -0.0019999999999997797,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-16T07:45:00",
+    "exit_time": "2026-01-16T09:00:00",
+    "entry_price": 1.16067,
+    "exit_price": 1.16117,
+    "lot_size": 0.04,
+    "pnl": -0.0019999999999997797,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-16T09:00:00",
+    "exit_time": "2026-01-16T10:15:00",
+    "entry_price": 1.16137,
+    "exit_price": 1.16087,
+    "lot_size": 0.04,
+    "pnl": -0.0019999999999997797,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-16T11:45:00",
+    "exit_time": "2026-01-16T12:15:00",
+    "entry_price": 1.16083,
+    "exit_price": 1.16133,
+    "lot_size": 0.04,
+    "pnl": -0.0019999999999997797,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-16T12:15:00",
+    "exit_time": "2026-01-16T13:30:00",
+    "entry_price": 1.16144,
+    "exit_price": null,
+    "lot_size": 0.04,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-16T17:15:00",
+    "exit_time": "2026-01-16T17:30:00",
+    "entry_price": 1.16026,
+    "exit_price": 1.1592600000000002,
+    "lot_size": 0.04,
+    "pnl": 0.0039999999999995595,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-01-16T23:15:00",
+    "exit_time": "2026-01-19T00:00:00",
+    "entry_price": 1.16011,
+    "exit_price": 1.15961,
+    "lot_size": 0.04,
+    "pnl": -0.0019999999999997797,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-19T01:15:00",
+    "exit_time": "2026-01-19T01:30:00",
+    "entry_price": 1.16121,
+    "exit_price": 1.16221,
+    "lot_size": 0.04,
+    "pnl": 0.0039999999999995595,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-01-19T10:00:00",
+    "exit_time": "2026-01-19T10:15:00",
+    "entry_price": 1.16214,
+    "exit_price": 1.16264,
+    "lot_size": 0.04,
+    "pnl": -0.0019999999999997797,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-19T13:45:00",
+    "exit_time": "2026-01-19T15:45:00",
+    "entry_price": 1.16278,
+    "exit_price": null,
+    "lot_size": 0.04,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-20T01:15:00",
+    "exit_time": "2026-01-20T02:45:00",
+    "entry_price": 1.16402,
+    "exit_price": null,
+    "lot_size": 0.04,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-20T04:00:00",
+    "exit_time": "2026-01-20T05:00:00",
+    "entry_price": 1.16414,
+    "exit_price": null,
+    "lot_size": 0.03,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-20T21:00:00",
+    "exit_time": "2026-01-20T21:30:00",
+    "entry_price": 1.17218,
+    "exit_price": null,
+    "lot_size": 0.03,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-21T00:30:00",
+    "exit_time": "2026-01-21T02:15:00",
+    "entry_price": 1.17248,
+    "exit_price": 1.17198,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-21T02:15:00",
+    "exit_time": "2026-01-21T03:00:00",
+    "entry_price": 1.17202,
+    "exit_price": 1.17252,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-21T03:15:00",
+    "exit_time": "2026-01-21T04:00:00",
+    "entry_price": 1.17318,
+    "exit_price": 1.17268,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-21T05:00:00",
+    "exit_time": "2026-01-21T05:15:00",
+    "entry_price": 1.17216,
+    "exit_price": 1.1711600000000002,
+    "lot_size": 0.03,
+    "pnl": 0.0029999999999996696,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-01-21T08:45:00",
+    "exit_time": "2026-01-21T09:00:00",
+    "entry_price": 1.17239,
+    "exit_price": 1.17189,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-21T09:00:00",
+    "exit_time": "2026-01-21T09:15:00",
+    "entry_price": 1.17143,
+    "exit_price": 1.17193,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-21T09:15:00",
+    "exit_time": "2026-01-21T09:30:00",
+    "entry_price": 1.17236,
+    "exit_price": 1.1718600000000001,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-21T09:30:00",
+    "exit_time": "2026-01-21T09:45:00",
+    "entry_price": 1.17135,
+    "exit_price": 1.1718499999999998,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-21T13:45:00",
+    "exit_time": "2026-01-21T14:00:00",
+    "entry_price": 1.17141,
+    "exit_price": null,
+    "lot_size": 0.03,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-21T17:15:00",
+    "exit_time": "2026-01-21T17:30:00",
+    "entry_price": 1.17086,
+    "exit_price": 1.17136,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-22T03:45:00",
+    "exit_time": "2026-01-22T04:30:00",
+    "entry_price": 1.16889,
+    "exit_price": 1.16839,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-22T08:00:00",
+    "exit_time": "2026-01-22T09:30:00",
+    "entry_price": 1.16869,
+    "exit_price": 1.16919,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-22T09:30:00",
+    "exit_time": "2026-01-22T10:30:00",
+    "entry_price": 1.16899,
+    "exit_price": 1.16849,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-22T10:30:00",
+    "exit_time": "2026-01-22T11:00:00",
+    "entry_price": 1.16866,
+    "exit_price": 1.16916,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-22T11:00:00",
+    "exit_time": "2026-01-22T12:45:00",
+    "entry_price": 1.169,
+    "exit_price": null,
+    "lot_size": 0.03,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-23T02:45:00",
+    "exit_time": "2026-01-23T03:15:00",
+    "entry_price": 1.17481,
+    "exit_price": 1.1753099999999999,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-23T07:00:00",
+    "exit_time": "2026-01-23T08:15:00",
+    "entry_price": 1.17512,
+    "exit_price": 1.17462,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-23T08:15:00",
+    "exit_time": "2026-01-23T09:15:00",
+    "entry_price": 1.17438,
+    "exit_price": null,
+    "lot_size": 0.03,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-23T14:30:00",
+    "exit_time": "2026-01-23T15:45:00",
+    "entry_price": 1.174,
+    "exit_price": 1.1735,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-26T08:00:00",
+    "exit_time": "2026-01-26T08:15:00",
+    "entry_price": 1.18525,
+    "exit_price": 1.1857499999999999,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-26T11:30:00",
+    "exit_time": "2026-01-26T11:45:00",
+    "entry_price": 1.18669,
+    "exit_price": 1.18619,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-26T13:15:00",
+    "exit_time": "2026-01-26T13:45:00",
+    "entry_price": 1.18518,
+    "exit_price": 1.1856799999999998,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-26T16:15:00",
+    "exit_time": "2026-01-26T16:45:00",
+    "entry_price": 1.1867,
+    "exit_price": 1.1877,
+    "lot_size": 0.03,
+    "pnl": 0.0029999999999996696,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-01-26T21:30:00",
+    "exit_time": "2026-01-26T21:45:00",
+    "entry_price": 1.18753,
+    "exit_price": 1.18803,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-26T21:45:00",
+    "exit_time": "2026-01-26T23:30:00",
+    "entry_price": 1.18792,
+    "exit_price": 1.1874200000000001,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-26T23:30:00",
+    "exit_time": "2026-01-27T01:00:00",
+    "entry_price": 1.18756,
+    "exit_price": 1.18806,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-27T01:00:00",
+    "exit_time": "2026-01-27T04:15:00",
+    "entry_price": 1.1877900000000001,
+    "exit_price": 1.18829,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-27T06:00:00",
+    "exit_time": "2026-01-27T06:15:00",
+    "entry_price": 1.18772,
+    "exit_price": null,
+    "lot_size": 0.03,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-27T11:45:00",
+    "exit_time": "2026-01-27T12:00:00",
+    "entry_price": 1.18891,
+    "exit_price": 1.18841,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-28T03:00:00",
+    "exit_time": "2026-01-28T03:15:00",
+    "entry_price": 1.20088,
+    "exit_price": null,
+    "lot_size": 0.03,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-01-28T09:00:00",
+    "exit_time": "2026-01-28T09:15:00",
+    "entry_price": 1.20214,
+    "exit_price": 1.20164,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-28T09:45:00",
+    "exit_time": "2026-01-28T10:00:00",
+    "entry_price": 1.19913,
+    "exit_price": 1.19963,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-28T22:30:00",
+    "exit_time": "2026-01-28T23:30:00",
+    "entry_price": 1.19468,
+    "exit_price": 1.19418,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-29T09:30:00",
+    "exit_time": "2026-01-29T10:00:00",
+    "entry_price": 1.19717,
+    "exit_price": 1.19767,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-29T15:15:00",
+    "exit_time": "2026-01-29T15:30:00",
+    "entry_price": 1.19652,
+    "exit_price": 1.19602,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-29T17:15:00",
+    "exit_time": "2026-01-29T17:30:00",
+    "entry_price": 1.19093,
+    "exit_price": 1.19143,
+    "lot_size": 0.03,
+    "pnl": -0.0014999999999998348,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-29T19:30:00",
+    "exit_time": "2026-01-29T19:45:00",
+    "entry_price": 1.19605,
+    "exit_price": 1.1955500000000001,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-30T02:15:00",
+    "exit_time": "2026-01-30T02:30:00",
+    "entry_price": 1.19469,
+    "exit_price": 1.1936900000000001,
+    "lot_size": 0.02,
+    "pnl": 0.0019999999999997797,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-01-30T09:45:00",
+    "exit_time": "2026-01-30T10:15:00",
+    "entry_price": 1.19377,
+    "exit_price": 1.19327,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-30T11:15:00",
+    "exit_time": "2026-01-30T11:30:00",
+    "entry_price": 1.1919,
+    "exit_price": 1.1924,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-01-30T13:15:00",
+    "exit_time": "2026-01-30T13:45:00",
+    "entry_price": 1.19345,
+    "exit_price": 1.1944499999999998,
+    "lot_size": 0.02,
+    "pnl": 0.0019999999999997797,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-01-30T15:00:00",
+    "exit_time": "2026-01-30T15:15:00",
+    "entry_price": 1.19192,
+    "exit_price": 1.19242,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-02T02:15:00",
+    "exit_time": "2026-02-02T02:30:00",
+    "entry_price": 1.18716,
+    "exit_price": 1.18666,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-02T06:30:00",
+    "exit_time": "2026-02-02T07:15:00",
+    "entry_price": 1.18602,
+    "exit_price": null,
+    "lot_size": 0.02,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-02T10:15:00",
+    "exit_time": "2026-02-02T10:30:00",
+    "entry_price": 1.18625,
+    "exit_price": 1.18575,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-02T10:45:00",
+    "exit_time": "2026-02-02T11:15:00",
+    "entry_price": 1.1851,
+    "exit_price": 1.1856,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-02T11:45:00",
+    "exit_time": "2026-02-02T12:00:00",
+    "entry_price": 1.1862300000000001,
+    "exit_price": null,
+    "lot_size": 0.02,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-02T14:15:00",
+    "exit_time": "2026-02-02T14:30:00",
+    "entry_price": 1.18549,
+    "exit_price": 1.18449,
+    "lot_size": 0.02,
+    "pnl": 0.0019999999999997797,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-02-03T01:15:00",
+    "exit_time": "2026-02-03T02:00:00",
+    "entry_price": 1.17959,
+    "exit_price": null,
+    "lot_size": 0.02,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-03T11:00:00",
+    "exit_time": "2026-02-03T11:15:00",
+    "entry_price": 1.18065,
+    "exit_price": 1.18115,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-03T17:15:00",
+    "exit_time": "2026-02-03T17:30:00",
+    "entry_price": 1.18084,
+    "exit_price": 1.18034,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-04T01:30:00",
+    "exit_time": "2026-02-04T03:00:00",
+    "entry_price": 1.18147,
+    "exit_price": 1.18197,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-04T03:00:00",
+    "exit_time": "2026-02-04T03:30:00",
+    "entry_price": 1.1820599999999999,
+    "exit_price": null,
+    "lot_size": 0.02,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-04T11:15:00",
+    "exit_time": "2026-02-04T11:30:00",
+    "entry_price": 1.18263,
+    "exit_price": 1.1816300000000002,
+    "lot_size": 0.02,
+    "pnl": 0.0019999999999997797,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-02-04T15:00:00",
+    "exit_time": "2026-02-04T15:15:00",
+    "entry_price": 1.18214,
+    "exit_price": 1.18164,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-04T15:15:00",
+    "exit_time": "2026-02-04T15:30:00",
+    "entry_price": 1.18138,
+    "exit_price": 1.18188,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-04T15:45:00",
+    "exit_time": "2026-02-04T16:00:00",
+    "entry_price": 1.18224,
+    "exit_price": 1.18174,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-04T16:00:00",
+    "exit_time": "2026-02-04T16:15:00",
+    "entry_price": 1.1807699999999999,
+    "exit_price": 1.1812699999999998,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-04T21:45:00",
+    "exit_time": "2026-02-04T22:15:00",
+    "entry_price": 1.18091,
+    "exit_price": 1.18041,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-05T01:45:00",
+    "exit_time": "2026-02-05T03:15:00",
+    "entry_price": 1.18015,
+    "exit_price": 1.18065,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-05T03:30:00",
+    "exit_time": "2026-02-05T04:00:00",
+    "entry_price": 1.18053,
+    "exit_price": 1.1800300000000001,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-05T04:00:00",
+    "exit_time": "2026-02-05T04:45:00",
+    "entry_price": 1.17968,
+    "exit_price": 1.1786800000000002,
+    "lot_size": 0.02,
+    "pnl": 0.0019999999999997797,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-02-05T09:00:00",
+    "exit_time": "2026-02-05T10:00:00",
+    "entry_price": 1.17966,
+    "exit_price": 1.1806599999999998,
+    "lot_size": 0.02,
+    "pnl": 0.0019999999999997797,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-02-05T11:15:00",
+    "exit_time": "2026-02-05T11:45:00",
+    "entry_price": 1.17878,
+    "exit_price": null,
+    "lot_size": 0.02,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-05T14:00:00",
+    "exit_time": "2026-02-05T14:15:00",
+    "entry_price": 1.17926,
+    "exit_price": 1.17876,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-05T17:30:00",
+    "exit_time": "2026-02-05T17:45:00",
+    "entry_price": 1.17866,
+    "exit_price": 1.17916,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-05T19:15:00",
+    "exit_time": "2026-02-05T19:45:00",
+    "entry_price": 1.18038,
+    "exit_price": 1.17988,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-05T20:45:00",
+    "exit_time": "2026-02-05T22:30:00",
+    "entry_price": 1.17935,
+    "exit_price": 1.17835,
+    "lot_size": 0.02,
+    "pnl": 0.0019999999999997797,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-02-06T03:45:00",
+    "exit_time": "2026-02-06T04:15:00",
+    "entry_price": 1.17851,
+    "exit_price": null,
+    "lot_size": 0.02,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-06T10:00:00",
+    "exit_time": "2026-02-06T10:45:00",
+    "entry_price": 1.17901,
+    "exit_price": 1.1795099999999998,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-06T11:15:00",
+    "exit_time": "2026-02-06T12:45:00",
+    "entry_price": 1.17943,
+    "exit_price": 1.17893,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-06T13:00:00",
+    "exit_time": "2026-02-06T15:00:00",
+    "entry_price": 1.17901,
+    "exit_price": 1.1795099999999998,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-06T15:00:00",
+    "exit_time": "2026-02-06T15:15:00",
+    "entry_price": 1.17937,
+    "exit_price": null,
+    "lot_size": 0.02,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-07T00:00:00",
+    "exit_time": "2026-02-09T01:00:00",
+    "entry_price": 1.18155,
+    "exit_price": 1.18205,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-09T01:30:00",
+    "exit_time": "2026-02-09T01:45:00",
+    "entry_price": 1.18208,
+    "exit_price": null,
+    "lot_size": 0.02,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-09T04:45:00",
+    "exit_time": "2026-02-09T05:45:00",
+    "entry_price": 1.1819600000000001,
+    "exit_price": 1.18246,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-09T06:15:00",
+    "exit_time": "2026-02-09T07:00:00",
+    "entry_price": 1.18238,
+    "exit_price": null,
+    "lot_size": 0.02,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-10T01:00:00",
+    "exit_time": "2026-02-10T02:00:00",
+    "entry_price": 1.19106,
+    "exit_price": null,
+    "lot_size": 0.02,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-10T04:30:00",
+    "exit_time": "2026-02-10T07:30:00",
+    "entry_price": 1.19103,
+    "exit_price": 1.19053,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-10T10:30:00",
+    "exit_time": "2026-02-10T10:45:00",
+    "entry_price": 1.19137,
+    "exit_price": 1.19087,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-10T13:15:00",
+    "exit_time": "2026-02-10T14:15:00",
+    "entry_price": 1.1903,
+    "exit_price": 1.1907999999999999,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-10T16:00:00",
+    "exit_time": "2026-02-10T16:15:00",
+    "entry_price": 1.1915499999999999,
+    "exit_price": null,
+    "lot_size": 0.02,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-10T17:30:00",
+    "exit_time": "2026-02-10T17:45:00",
+    "entry_price": 1.19011,
+    "exit_price": 1.19061,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-10T17:45:00",
+    "exit_time": "2026-02-10T18:00:00",
+    "entry_price": 1.1914,
+    "exit_price": 1.1909,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-10T18:15:00",
+    "exit_time": "2026-02-10T18:45:00",
+    "entry_price": 1.1903,
+    "exit_price": null,
+    "lot_size": 0.02,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-10T22:30:00",
+    "exit_time": "2026-02-10T22:45:00",
+    "entry_price": 1.1902300000000001,
+    "exit_price": 1.1897300000000002,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-10T22:45:00",
+    "exit_time": "2026-02-11T01:00:00",
+    "entry_price": 1.18952,
+    "exit_price": null,
+    "lot_size": 0.02,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-11T02:45:00",
+    "exit_time": "2026-02-11T04:15:00",
+    "entry_price": 1.1897,
+    "exit_price": 1.1906999999999999,
+    "lot_size": 0.02,
+    "pnl": 0.0019999999999997797,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-02-11T13:30:00",
+    "exit_time": "2026-02-11T13:45:00",
+    "entry_price": 1.19076,
+    "exit_price": 1.19126,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-11T19:00:00",
+    "exit_time": "2026-02-11T20:00:00",
+    "entry_price": 1.18889,
+    "exit_price": 1.18839,
+    "lot_size": 0.02,
+    "pnl": -0.0009999999999998899,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-11T22:00:00",
+    "exit_time": "2026-02-11T22:45:00",
+    "entry_price": 1.18771,
+    "exit_price": null,
+    "lot_size": 0.02,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-12T02:45:00",
+    "exit_time": "2026-02-12T04:15:00",
+    "entry_price": 1.18768,
+    "exit_price": null,
+    "lot_size": 0.02,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-12T05:30:00",
+    "exit_time": "2026-02-12T06:00:00",
+    "entry_price": 1.18731,
+    "exit_price": null,
+    "lot_size": 0.01,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-12T09:30:00",
+    "exit_time": "2026-02-12T10:00:00",
+    "entry_price": 1.18716,
+    "exit_price": null,
+    "lot_size": 0.01,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-12T14:45:00",
+    "exit_time": "2026-02-12T15:00:00",
+    "entry_price": 1.18731,
+    "exit_price": 1.18781,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-12T15:45:00",
+    "exit_time": "2026-02-12T16:00:00",
+    "entry_price": 1.18849,
+    "exit_price": 1.18799,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-12T18:00:00",
+    "exit_time": "2026-02-12T18:30:00",
+    "entry_price": 1.18695,
+    "exit_price": 1.18745,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-12T23:00:00",
+    "exit_time": "2026-02-13T00:00:00",
+    "entry_price": 1.18709,
+    "exit_price": 1.18659,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-13T00:15:00",
+    "exit_time": "2026-02-13T03:00:00",
+    "entry_price": 1.18678,
+    "exit_price": 1.18728,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-13T03:00:00",
+    "exit_time": "2026-02-13T07:00:00",
+    "entry_price": 1.18673,
+    "exit_price": null,
+    "lot_size": 0.01,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-13T11:00:00",
+    "exit_time": "2026-02-13T12:00:00",
+    "entry_price": 1.18644,
+    "exit_price": 1.18594,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-13T12:15:00",
+    "exit_time": "2026-02-13T14:15:00",
+    "entry_price": 1.18563,
+    "exit_price": 1.18613,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-13T14:30:00",
+    "exit_time": "2026-02-13T15:30:00",
+    "entry_price": 1.18604,
+    "exit_price": 1.1870399999999999,
+    "lot_size": 0.01,
+    "pnl": 0.0009999999999998899,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-02-13T17:45:00",
+    "exit_time": "2026-02-13T18:00:00",
+    "entry_price": 1.18483,
+    "exit_price": 1.18533,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-13T18:30:00",
+    "exit_time": "2026-02-13T18:45:00",
+    "entry_price": 1.18722,
+    "exit_price": 1.18672,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-13T21:45:00",
+    "exit_time": "2026-02-13T22:45:00",
+    "entry_price": 1.18666,
+    "exit_price": 1.18716,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-13T22:45:00",
+    "exit_time": "2026-02-13T23:30:00",
+    "entry_price": 1.18744,
+    "exit_price": 1.18694,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-13T23:45:00",
+    "exit_time": "2026-02-16T02:00:00",
+    "entry_price": 1.18686,
+    "exit_price": null,
+    "lot_size": 0.01,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-16T05:15:00",
+    "exit_time": "2026-02-16T06:30:00",
+    "entry_price": 1.18671,
+    "exit_price": 1.18621,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-16T06:30:00",
+    "exit_time": "2026-02-16T08:15:00",
+    "entry_price": 1.1862300000000001,
+    "exit_price": 1.18673,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-16T08:15:00",
+    "exit_time": "2026-02-16T09:30:00",
+    "entry_price": 1.18665,
+    "exit_price": 1.18615,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-16T09:45:00",
+    "exit_time": "2026-02-16T10:00:00",
+    "entry_price": 1.18628,
+    "exit_price": 1.18678,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-16T11:00:00",
+    "exit_time": "2026-02-16T11:45:00",
+    "entry_price": 1.18676,
+    "exit_price": 1.18626,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-16T12:00:00",
+    "exit_time": "2026-02-16T14:15:00",
+    "entry_price": 1.1865,
+    "exit_price": null,
+    "lot_size": 0.01,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-16T22:00:00",
+    "exit_time": "2026-02-17T01:00:00",
+    "entry_price": 1.18537,
+    "exit_price": 1.18487,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-17T08:30:00",
+    "exit_time": "2026-02-17T09:00:00",
+    "entry_price": 1.18452,
+    "exit_price": 1.18402,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-17T09:00:00",
+    "exit_time": "2026-02-17T09:30:00",
+    "entry_price": 1.18399,
+    "exit_price": null,
+    "lot_size": 0.01,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-17T11:15:00",
+    "exit_time": "2026-02-17T12:00:00",
+    "entry_price": 1.18473,
+    "exit_price": 1.1842300000000001,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-17T13:30:00",
+    "exit_time": "2026-02-17T13:45:00",
+    "entry_price": 1.1838,
+    "exit_price": 1.1828,
+    "lot_size": 0.01,
+    "pnl": 0.0009999999999998899,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-02-17T18:45:00",
+    "exit_time": "2026-02-17T19:00:00",
+    "entry_price": 1.18307,
+    "exit_price": null,
+    "lot_size": 0.01,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-18T03:00:00",
+    "exit_time": "2026-02-18T09:00:00",
+    "entry_price": 1.18445,
+    "exit_price": null,
+    "lot_size": 0.01,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-18T14:15:00",
+    "exit_time": "2026-02-18T15:15:00",
+    "entry_price": 1.18426,
+    "exit_price": 1.1837600000000001,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-18T15:30:00",
+    "exit_time": "2026-02-18T15:45:00",
+    "entry_price": 1.18321,
+    "exit_price": null,
+    "lot_size": 0.01,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-19T03:00:00",
+    "exit_time": "2026-02-19T05:15:00",
+    "entry_price": 1.17941,
+    "exit_price": 1.1789100000000001,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-19T05:30:00",
+    "exit_time": "2026-02-19T08:15:00",
+    "entry_price": 1.1789399999999999,
+    "exit_price": 1.1794399999999998,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-19T12:15:00",
+    "exit_time": "2026-02-19T13:15:00",
+    "entry_price": 1.17901,
+    "exit_price": null,
+    "lot_size": 0.01,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-19T20:00:00",
+    "exit_time": "2026-02-19T21:30:00",
+    "entry_price": 1.17704,
+    "exit_price": 1.1765400000000001,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-19T21:45:00",
+    "exit_time": "2026-02-19T22:45:00",
+    "entry_price": 1.17638,
+    "exit_price": 1.17688,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-19T22:45:00",
+    "exit_time": "2026-02-19T23:30:00",
+    "entry_price": 1.17688,
+    "exit_price": null,
+    "lot_size": 0.01,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-20T02:00:00",
+    "exit_time": "2026-02-20T03:30:00",
+    "entry_price": 1.17675,
+    "exit_price": 1.17575,
+    "lot_size": 0.01,
+    "pnl": 0.0009999999999998899,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-02-20T09:15:00",
+    "exit_time": "2026-02-20T09:45:00",
+    "entry_price": 1.17584,
+    "exit_price": 1.17534,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-20T09:45:00",
+    "exit_time": "2026-02-20T10:15:00",
+    "entry_price": 1.17513,
+    "exit_price": 1.17563,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-20T10:45:00",
+    "exit_time": "2026-02-20T11:15:00",
+    "entry_price": 1.17607,
+    "exit_price": null,
+    "lot_size": 0.01,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-20T16:30:00",
+    "exit_time": "2026-02-20T16:45:00",
+    "entry_price": 1.1763,
+    "exit_price": 1.1767999999999998,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-20T16:45:00",
+    "exit_time": "2026-02-20T17:00:00",
+    "entry_price": 1.17679,
+    "exit_price": 1.17629,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-21T00:15:00",
+    "exit_time": "2026-02-23T00:00:00",
+    "entry_price": 1.17807,
+    "exit_price": 1.17857,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-23T00:00:00",
+    "exit_time": "2026-02-23T01:00:00",
+    "entry_price": 1.17944,
+    "exit_price": 1.18044,
+    "lot_size": 0.01,
+    "pnl": 0.0009999999999998899,
+    "exit_reason": "TP"
+  },
+  {
+    "entry_time": "2026-02-23T07:00:00",
+    "exit_time": "2026-02-23T07:45:00",
+    "entry_price": 1.18161,
+    "exit_price": 1.18211,
+    "lot_size": 0.01,
+    "pnl": -0.0004999999999999449,
+    "exit_reason": "SL"
+  },
+  {
+    "entry_time": "2026-02-23T08:00:00",
+    "exit_time": "2026-02-23T08:15:00",
+    "entry_price": 1.18264,
+    "exit_price": null,
+    "lot_size": 0.01,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  },
+  {
+    "entry_time": "2026-02-23T10:15:00",
+    "exit_time": "2026-02-23T10:30:00",
+    "entry_price": 1.18178,
+    "exit_price": null,
+    "lot_size": 0.01,
+    "pnl": 0,
+    "exit_reason": "SIGNAL"
+  }
+]
